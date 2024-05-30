@@ -1,0 +1,173 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+```{r}
+library(tidyverse)
+#library(DESeq2)
+gene_abund <- read.csv("sampl_eggnog/gene_abund.csv")
+only_06_fixed_annot <- read.csv("sampl_orthofinder_SRB/only in desulfocapsa 06 annot.csv")
+only_13_fixed_annot <- read.csv("sampl_orthofinder_SRB/only in desulfocapsa 13 annot.csv")
+cog_cat <- read.csv("~/OneDrive - Nanyang Technological University/common bioinformatics/COG_category.csv")
+```
+
+# get COG categories
+remove NAs, transposase & transposons, remove DUFs and PUFs, then separate the cog CATEGORIES
+```{r}
+only_06_fixed_annot_clean <- only_06_fixed_annot %>% 
+  filter(Description != "-") %>% 
+  filter(Description != "NA")
+temp_ignore <- c(grep("transpos", only_06_fixed_annot_clean$Description, ignore.case = T), grep("unknown function", only_06_fixed_annot_clean$Description, ignore.case = T)) # 14 transposons/ase out of 218 with functions 6.4%
+only_06_fixed_annot_clean <- only_06_fixed_annot_clean[-temp_ignore, ]
+only_06_COGs <- only_06_fixed_annot_clean %>% 
+  select(COG_category, Ortholog.Group) %>% 
+  separate_longer_position(COG_category, 1)
+only_06_COGcounts <- table(only_06_COGs$COG_category)
+
+only_13_fixed_annot_clean <- only_13_fixed_annot %>% 
+  filter(Description != "-") %>% 
+  filter(Description != "NA")
+temp_ignore <- c(grep("transpos", only_13_fixed_annot_clean$Description, ignore.case = T), grep("unknown function", only_13_fixed_annot_clean$Description, ignore.case = T)) # 3 transposons/ase out of 159 with functions 1.9%
+only_13_fixed_annot_clean <- only_13_fixed_annot_clean[-temp_ignore, ] 
+only_13_COGs <- only_13_fixed_annot_clean %>% 
+  select(COG_category, Ortholog.Group) %>% 
+  separate_longer_position(COG_category, 1)
+only_13_COGcounts <- table(only_13_COGs$COG_category)
+```
+
+## plot!
+```{r}
+COGcounts_plot <- data.frame(COG_Category = c(names(only_06_COGcounts), names(only_13_COGcounts)),
+                             Count = c(only_06_COGcounts, only_13_COGcounts),
+                             Desulfocapsa = c(rep("Control/Corrosive", length(only_06_COGcounts)),
+                                              rep("Biocide treated", length(only_13_COGcounts))))
+
+COGcounts_plot_desc <- COGcounts_plot %>% 
+  left_join(cog_cat, by = c("COG_Category" = "COG.Category")) %>% 
+  mutate(label = paste0(COG_Category, " - ", Category))
+
+p_cog <- ggplot(COGcounts_plot_desc, aes(x = factor(paste0(COG_Category, " - ", Category), level = paste0(cog_cat$COG.Category, " - ", cog_cat$Category)), y = Count, fill = Desulfocapsa, colour = Desulfocapsa)) +
+  geom_bar(position = "dodge", stat = "identity") +
+  theme_bw() +
+  scale_colour_manual(values = c("#38628e", "#c3d0dd")) +
+    scale_fill_manual(values = c("#38628e", "#c3d0dd")) +
+  labs(x = "") +
+  theme(axis.text.x = element_text(angle = -35, hjust=0)) #+ ylim(c(0, 24))
+
+p_cog
+ggsave(filename = "sampl_orthofinder_SRB/only_in_6_and_13.jpg", plot = p_cog, width = 30, height = 20, units = "cm", dpi = "retina")
+
+```
+
+# Bootstrapping
+```{r}
+set.seed(42)
+
+
+# choose 10000 samples from both COG list with resampling.
+# Calculate difference per COG category.
+# Do 10000 times.
+# get median out of those 10000 resamplings
+diff_table <- data.frame(x = rep(0, length(unique(only_13_COGs$COG_category))))
+
+for (i in 1:1e4){
+  temp <- data.frame(rep = as.vector(table(sample(only_06_COGs$COG_category, 1e4, replace = T))[1:19] - table(sample(only_13_COGs$COG_category, 1e4, replace = T))))
+  diff_table <- diff_table %>% 
+    cbind(temp)
+  colnames(diff_table)[i+1] <- paste0("rep",i)
+}
+
+diff_median <- diff_table %>% 
+  select(-x) %>% 
+  apply(1, median)
+
+# choose 10000 samples * 2 from a combined COG list.
+# Calculate difference between the two per COG category
+# Do 10000 times
+# Get quartiles
+
+diff_table <- data.frame(x = rep(0, length(unique(only_13_COGs$COG_category))))
+
+for (i in 1:1e4){
+  temp <- data.frame(rep = as.vector(table(sample(c(only_06_COGs$COG_category, only_13_COGs$COG_category), 1e4, replace = T))[1:19] - table(sample(c(only_06_COGs$COG_category, only_13_COGs$COG_category), 1e4, replace = T))[1:19]))
+  diff_table <- diff_table %>% 
+    cbind(temp)
+  colnames(diff_table)[i+1] <- paste0("rep",i)
+}
+
+quantile_here <- function(x){
+  quantile(x, c(.001, .01, .05, .1, .9, .95, .99, .999))
+}
+
+diff_ranges <- diff_table %>% 
+  select(-x) %>% 
+  apply(1, quantile_here)
+```
+
+
+## compare results
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+# All COGs
+```{r}
+annot_simple <- readRDS("sampl_eggnog/annot_simple.RDS")
+annot_simple_clean <- annot_simple %>% 
+  filter(Description != "-") %>% 
+  filter(Description != "NA")
+
+annot_06 <- annot_simple_clean %>% 
+  filter(bin == "binsanity_sample06.txt.002.emapper.annotations")
+temp_ignore <- c(grep("transpos", annot_06$Description, ignore.case = T), grep("unknown function", annot_06$Description, ignore.case = T)) #46 transposons out of 3601
+annot_06_fixed_annot_clean <- annot_06[-temp_ignore, ]
+all_06_COGs <- annot_06_fixed_annot_clean %>% 
+  select(COG_category, X.query) %>% 
+  separate_longer_position(COG_category, 1)
+all_06_COGcounts <- table(all_06_COGs$COG_category)
+
+annot_13 <- annot_simple_clean %>% 
+  filter(bin == "metabat_sample13.txt.004.emapper.annotations")
+temp_ignore <- c(grep("transpos", annot_13$Description, ignore.case = T), grep("unknown function", annot_13$Description, ignore.case = T)) #57 transposons out of 3252
+annot_13_fixed_annot_clean <- annot_13[-temp_ignore, ]
+all_13_COGs <- annot_13_fixed_annot_clean %>% 
+  select(COG_category, X.query) %>% 
+  separate_longer_position(COG_category, 1)
+all_13_COGcounts <- table(all_13_COGs$COG_category)
+
+
+```
+
+## Plot!
+```{r}
+allCOGcounts_plot <- data.frame(COG_Category = c(names(all_06_COGcounts), names(all_13_COGcounts)),
+                                Count = c(all_06_COGcounts, all_13_COGcounts),
+                                Desulfocapsa = c(rep("Control/Corrosive", length(all_06_COGcounts)),
+                                                 rep("Biocide treated", length(all_13_COGcounts))))
+
+allCOGcounts_plot_desc <- allCOGcounts_plot %>%
+  left_join(cog_cat, by = c("COG_Category" = "COG.Category")) %>%
+  mutate(label = paste0(COG_Category, " - ", Category))
+
+p_cog_all <- ggplot(allCOGcounts_plot_desc, aes(x = factor(paste0(COG_Category, " - ", Category), level = paste0(cog_cat$COG.Category, " - ", cog_cat$Category)), y = Count, fill = Desulfocapsa)) +
+  geom_bar(position = "dodge", stat = "identity") +
+  theme_bw() +
+  labs(x = "COG Category") +
+  theme(axis.text.x = element_text(angle = -35, hjust=0)) #+ ylim(c(0, 24))
+
+p_cog_all
+
+
+```
+

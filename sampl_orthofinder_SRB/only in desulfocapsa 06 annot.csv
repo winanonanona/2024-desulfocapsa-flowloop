@@ -1,0 +1,703 @@
+"","Ortholog Group","ORF","bin","max_annot_lvl","Preferred_name","COG_category","PFAMs","Description","genome.assembly","category","HMM.x","clusterID","cell","reaction","substrate","HMM.y","cluster"
+"1","OG0002311","Utg323152_4","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"2","OG0002311","Utg323316_10","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","exbB2","-","DUF2341,DUF5074,Laminin_G_3,MotA_ExbB,PKD_3,Reg_prop","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"3","OG0002311","Utg323316_9","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"4","OG0002311","Utg323448_8","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","exbB2","-","DUF2341,DUF5074,Laminin_G_3,MotA_ExbB,PKD_3,Reg_prop","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"5","OG0002311","Utg323448_9","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"6","OG0002311","Utg325220_51","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","exbB2","-","DUF2341,DUF5074,Laminin_G_3,MotA_ExbB,PKD_3,Reg_prop","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"7","OG0002660","Utg323160_33","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","L","DDE_Tnp_1_2,DUF772","Transposase DDE domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"8","OG0002660","Utg323160_34","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","L","DDE_Tnp_1_2,DUF772","Transposase DDE domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"9","OG0002660","Utg323180_388","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","L","DDE_Tnp_1_2,DUF772","Transposase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"10","OG0002660","Utg323316_93","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","L","DDE_Tnp_1_2,DUF772","Transposase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"11","OG0002660","Utg323392_29","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","L","DDE_Tnp_1_2,DUF772","Transposase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"12","OG0003029","Utg323074_11","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","L","DDE_5,DDE_Tnp_2","PFAM transposase IS4 family protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"13","OG0003029","Utg323152_542","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","L","DDE_5,DDE_Tnp_2","PFAM transposase IS4 family protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"14","OG0003029","Utg323180_358","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","L","DDE_5,DDE_Tnp_2","PFAM transposase IS4 family protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"15","OG0003029","Utg323180_378","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","L","DDE_5,DDE_Tnp_2","PFAM transposase IS4 family protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"16","OG0003046","Utg323152_1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"17","OG0003046","Utg323316_13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"18","OG0003046","Utg323448_5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"19","OG0003046","Utg325220_48",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"20","OG0003047","Utg323152_2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"21","OG0003047","Utg323316_12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"22","OG0003047","Utg323448_6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"23","OG0003047","Utg325220_49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"24","OG0003048","Utg323152_3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"25","OG0003048","Utg323316_11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"26","OG0003048","Utg323448_7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"27","OG0003048","Utg325220_50",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"28","OG0003049","Utg323152_5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"29","OG0003049","Utg323316_8",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"30","OG0003049","Utg323448_10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"31","OG0003049","Utg325220_52",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"32","OG0003050","Utg323152_6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"33","OG0003050","Utg323316_7","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"34","OG0003050","Utg323448_11","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"35","OG0003050","Utg325220_53","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"36","OG0003065","Utg323160_4","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","Pentapeptide,TIR_2","TIR domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"37","OG0003065","Utg323180_321","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","Pentapeptide","PFAM pentapeptide repeat protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"38","OG0003065","Utg323392_264","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","Pentapeptide,TIR_2","TIR domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"39","OG0003065","Utg323632_145","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","Pentapeptide,TIR_2","TIR domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"40","OG0003079","Utg323180_532","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","L","GIIM,HNH,RVT_1,RVT_N","Reverse transcriptase (RNA-dependent DNA polymerase)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"41","OG0003079","Utg323180_534","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","L","GIIM,HNH,RVT_1,RVT_N","reverse transcriptase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"42","OG0003079","Utg324548_41","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","L","GIIM,HNH,RVT_1,RVT_N","reverse transcriptase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"43","OG0003079","Utg325220_81","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","L","GIIM,HNH,RVT_1,RVT_N","reverse transcriptase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"44","OG0003084","Utg323180_717","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","-","COG NOG15344 non supervised orthologous group",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"45","OG0003084","Utg323316_87","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","-","COG NOG15344 non supervised orthologous group",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"46","OG0003084","Utg323632_10","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","-","COG NOG15344 non supervised orthologous group",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"47","OG0003084","Utg323632_367","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","-","COG NOG15344 non supervised orthologous group",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"48","OG0003653","Utg323074_13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"49","OG0003653","Utg323990_251",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"50","OG0003653","Utg324548_47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"51","OG0003664","Utg323140_15","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","OG0003664","Utg323632_147","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"53","OG0003664","Utg323632_148","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","Caudo_TAP,DUF4376","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"54","OG0003679","Utg323160_57","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","S","Phage_lysozyme","Phage lysozyme",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"55","OG0003679","Utg323448_16","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","Phage_lysozyme","Phage lysozyme",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"56","OG0003679","Utg325220_58","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","Phage_lysozyme","Phage lysozyme",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"57","OG0003682","Utg323180_94","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","Q","Cu-oxidase_3","Parallel beta-helix repeats",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"58","OG0003682","Utg323180_95","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","Q","Cu-oxidase_2,Cu-oxidase_3","Multicopper oxidase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"59","OG0003682","Utg323180_96","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","Q","Cu-oxidase,Cu-oxidase_3","Multicopper oxidase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"60","OG0003723","Utg323300_4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"61","OG0003723","Utg323300_5","binsanity_sample06.txt.002.emapper.annotations","28890|Euryarchaeota","-","O","Peptidase_S8","Peptidase S8 S53, subtilisin kexin sedolisin",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","OG0003723","Utg324810_1","binsanity_sample06.txt.002.emapper.annotations","28890|Euryarchaeota","-","O","Peptidase_S8","Peptidase S8 S53, subtilisin kexin sedolisin",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"63","OG0003729","Utg323300_160","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","lapA","DZ","CHU_C,Calx-beta,DUF4347,HemolysinCabind,VWA_2","regulator of chromosome condensation, RCC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"64","OG0003729","Utg323632_6","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","M","Cna_B,HemolysinCabind,SdrD_B","domain protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","OG0003729","Utg323632_7","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","lapA","DZ","CHU_C,Calx-beta,DUF4347,HemolysinCabind,VWA_2","regulator of chromosome condensation, RCC1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"66","OG0003737","Utg323316_3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"67","OG0003737","Utg323448_15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"68","OG0003737","Utg325220_57",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"69","OG0003738","Utg323316_4","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"70","OG0003738","Utg323448_14","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"71","OG0003738","Utg325220_56","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","OG0003739","Utg323316_5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"73","OG0003739","Utg323448_13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"74","OG0003739","Utg325220_55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","OG0003740","Utg323316_6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"76","OG0003740","Utg323448_12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","OG0003740","Utg325220_54",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"78","OG0003741","Utg323316_14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"79","OG0003741","Utg323448_4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"80","OG0003741","Utg325220_47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"81","OG0003742","Utg323316_15","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"82","OG0003742","Utg323448_3","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"83","OG0003742","Utg325220_46","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"84","OG0003743","Utg323316_16","binsanity_sample06.txt.002.emapper.annotations","135619|Oceanospirillales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","OG0003743","Utg323448_2","binsanity_sample06.txt.002.emapper.annotations","135619|Oceanospirillales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"86","OG0003743","Utg325220_45","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","OG0003781","Utg323990_227",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"88","OG0003781","Utg323990_252",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"89","OG0003781","Utg324548_46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"90","OG0004631","Utg323074_5",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"91","OG0004631","Utg323316_370",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"92","OG0004632","Utg323074_9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"93","OG0004632","Utg323316_364",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"94","OG0004637","Utg323074_83","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","G","SBP_bac_1,SBP_bac_8","ABC-type sugar transport system, periplasmic component",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"95","OG0004637","Utg323074_84","binsanity_sample06.txt.002.emapper.annotations","204441|Rhodospirillales","-","G","SBP_bac_8","Bacterial extracellular solute-binding protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"96","OG0004648","Utg323074_225","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","Glycos_transf_2","Glycosyl transferase family 2",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","OG0004648","Utg323990_5","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","Glycos_transf_2","Glycosyl transferase family 2",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"98","OG0004649","Utg323140_16","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","G","-","cellulose 1,4-beta-cellobiosidase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"99","OG0004649","Utg323632_149","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","G","-","cellulose 1,4-beta-cellobiosidase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"100","OG0004661","Utg323152_29","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"101","OG0004661","Utg323152_30","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"102","OG0004662","Utg323152_32","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","S","NHase_alpha","Nitrile hydratase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"103","OG0004662","Utg323152_33","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","S","NHase_alpha","Nitrile hydratase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"104","OG0004674","Utg323152_357","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","C","Fer4_14,Radical_SAM,SPASM","Iron-sulfur cluster-binding domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","OG0004674","Utg323152_361","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","C","Fer4_14,Radical_SAM,SPASM","Iron-sulfur cluster-binding domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"106","OG0004688","Utg323152_540","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","D","Collagen_bind,GbpC,Gram_pos_anchor,NYN,SPOR","Lytic transglycosylase with a strong preference for naked glycan strands that lack stem peptides",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"107","OG0004688","Utg323262_23","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","DUF4157,Ntox11","Domain of unknown function (DUF4157)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"108","OG0004689","Utg323152_568",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"109","OG0004689","Utg323316_89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"110","OG0004691","Utg323152_608","binsanity_sample06.txt.002.emapper.annotations","204457|Sphingomonadales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"111","OG0004691","Utg323316_368","binsanity_sample06.txt.002.emapper.annotations","204457|Sphingomonadales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"112","OG0004692","Utg323152_609",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"113","OG0004692","Utg323316_367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"114","OG0004693","Utg323160_1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","OG0004693","Utg323392_267",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"116","OG0004694","Utg323160_2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"117","OG0004694","Utg323392_266",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","OG0004717","Utg323180_354","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","moaA","H","Fer4_12,Fer4_14,Mob_synth_C,Radical_SAM","Catalyzes the cyclization of GTP to (8S)-3',8-cyclo-7,8- dihydroguanosine 5'-triphosphate",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"119","OG0004717","Utg323180_356","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","I","Fer4_12,Fer4_14,PqqD,Radical_SAM,SPASM","radical SAM domain protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"120","OG0004737","Utg323180_622",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"121","OG0004737","Utg323180_623",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"122","OG0004745","Utg323262_4","binsanity_sample06.txt.002.emapper.annotations","183939|Methanococci","-","F","CTP_transf_like","Nicotinamide-nucleotide adenylyltransferase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"123","OG0004745","Utg323448_124","binsanity_sample06.txt.002.emapper.annotations","183939|Methanococci","-","F","CTP_transf_like","Nicotinamide-nucleotide adenylyltransferase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"124","OG0004749","Utg323262_21","binsanity_sample06.txt.002.emapper.annotations","203682|Planctomycetes","-","O","AAA","ATPase family associated with various cellular activities (AAA)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","OG0004749","Utg323448_128","binsanity_sample06.txt.002.emapper.annotations","135613|Chromatiales","-","O","AAA","ATPase family associated with various cellular activities (AAA)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"126","OG0004756","Utg323262_135",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"127","OG0004756","Utg323300_6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"128","OG0004758","Utg323262_192","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","AIG2_2,GGACT","AIG2-like family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"129","OG0004758","Utg323990_231","binsanity_sample06.txt.002.emapper.annotations","33208|Metazoa","GGCT","S","AIG2_2","AIG2-like family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"130","OG0004790","Utg323300_456",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"131","OG0004790","Utg323316_38",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"132","OG0004791","Utg323300_457",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"133","OG0004791","Utg323316_37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"134","OG0004792","Utg323300_460",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"135","OG0004792","Utg323316_35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","OG0004797","Utg323316_51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"137","OG0004797","Utg325220_6","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"138","OG0004823","Utg323448_17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","OG0004823","Utg325220_59",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"140","OG0004828","Utg323632_161","binsanity_sample06.txt.002.emapper.annotations","204441|Rhodospirillales","-","S","-","to capsid protein Bacteriophage B3 gi 33338632 gb AAQ13956.1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"141","OG0004828","Utg325220_38","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","OG0004832","Utg323632_189","binsanity_sample06.txt.002.emapper.annotations","201174|Actinobacteria","-","L","-","DNA (cytosine-5-)-methyltransferase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"143","OG0004832","Utg323632_393","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","L","-","DNA binding",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","OG0004838","Utg323990_220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"145","OG0004838","Utg323990_223",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"146","OG0006959","Utg323074_1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"147","OG0006960","Utg323074_2","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"148","OG0006961","Utg323074_3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"149","OG0006962","Utg323074_6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"150","OG0006963","Utg323074_7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"151","OG0006964","Utg323074_8","binsanity_sample06.txt.002.emapper.annotations","2157|Archaea","-","O","TM2,zf-ribbon_3,zinc_ribbon_2","PFAM TM2 domain containing protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"152","OG0006965","Utg323074_10","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"153","OG0006966","Utg323074_12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"154","OG0006967","Utg323074_14","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"155","OG0006968","Utg323074_15","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","T","-","Response regulator, receiver",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"156","OG0006969","Utg323074_16","binsanity_sample06.txt.002.emapper.annotations","5653|Kinetoplastida","SGT","S","SGT1,TPR_1,TPR_8","Small glutamine-rich tetratricopeptide repeat protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","OG0006970","Utg323074_17","binsanity_sample06.txt.002.emapper.annotations","91061|Bacilli","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"158","OG0006971","Utg323074_18","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","S","Phage_portal_2","Phage portal protein, lambda family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"159","OG0006972","Utg323074_20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"160","OG0006973","Utg323074_47","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"161","OG0006974","Utg323074_51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"162","OG0006975","Utg323074_52",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"163","OG0006976","Utg323074_53","binsanity_sample06.txt.002.emapper.annotations","200918|Thermotogae","-","S","Metallophos","Calcineurin-like phosphoesterase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"164","OG0006977","Utg323074_55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"165","OG0006978","Utg323074_56","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"166","OG0006979","Utg323074_75","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","H","Methyltransf_13,Methyltransf_14,Methyltransf_23","Methyltransferase domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"167","OG0006980","Utg323074_82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"168","OG0006981","Utg323074_91",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"169","OG0006982","Utg323074_93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"170","OG0006983","Utg323074_96",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"171","OG0006984","Utg323074_99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"172","OG0006985","Utg323074_102","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","P","NMT1,NMT1_2","SMART extracellular solute-binding protein family 3",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"173","OG0006986","Utg323074_107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"174","OG0006987","Utg323074_144",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"175","OG0006988","Utg323074_162",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"176","OG0006989","Utg323074_174","binsanity_sample06.txt.002.emapper.annotations","224756|Methanomicrobia","-","M","PMT_2","Dolichyl-phosphate-mannose-protein mannosyltransferase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"177","OG0006990","Utg323074_204","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","M","Methyltransf_24","Methyltransferase domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"178","OG0006991","Utg323074_205",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"179","OG0006992","Utg323074_206","binsanity_sample06.txt.002.emapper.annotations","204432|Acidobacteriia","-","M","Glyco_transf_4,Glycos_transf_1","Glycosyltransferase Family 4",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"180","OG0006993","Utg323074_214",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"181","OG0006994","Utg323074_216","binsanity_sample06.txt.002.emapper.annotations","135619|Oceanospirillales","-","I","MaoC_dehydratas","dehydratase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"182","OG0006995","Utg323140_19","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","O","AAA_32,Lon_C","Belongs to the peptidase S16 family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"183","OG0006996","Utg323140_22","binsanity_sample06.txt.002.emapper.annotations","32066|Fusobacteria","-","M","MBOAT","Psort location CytoplasmicMembrane, score 10.00",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"184","OG0006997","Utg323140_23","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"185","OG0006998","Utg323140_29","binsanity_sample06.txt.002.emapper.annotations","72273|Thiotrichales","-","I","Acyl_transf_3","Acyltransferase family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","OG0006999","Utg323140_31",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"187","OG0007000","Utg323140_123","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","T","HAMP,HATPase_c,HisKA,PAS,PAS_9,Response_reg","Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"188","OG0007001","Utg323140_143",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"189","OG0007002","Utg323140_153",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"190","OG0007003","Utg323140_154",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"191","OG0007004","Utg323140_170","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","ihfB","L","Bac_DNA_binding","Belongs to the bacterial histone-like protein family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"192","OG0007005","Utg323140_172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"193","OG0007006","Utg323140_173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"194","OG0007007","Utg323140_194","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","SdiA-regulated","SdiA-regulated",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"195","OG0007008","Utg323140_199",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"196","OG0007009","Utg323140_200","binsanity_sample06.txt.002.emapper.annotations","135623|Vibrionales","BT2546","K","HTH_26","Transcriptional regulator",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"197","OG0007010","Utg323140_201","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","DUF2975","Protein of unknown function (DUF2975)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"198","OG0007011","Utg323140_211",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"199","OG0007012","Utg323140_234",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"200","OG0007013","Utg323140_243",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"201","OG0007014","Utg323140_248","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","pgk","F","PGK","Belongs to the phosphoglycerate kinase family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","OG0007015","Utg323152_7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"203","OG0007016","Utg323152_16","binsanity_sample06.txt.002.emapper.annotations","201174|Actinobacteria","-","V","CPT","chloramphenicol",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"204","OG0007017","Utg323152_21","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","H","Methyltransf_9","PFAM Methyltransferase type 11",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"205","OG0007018","Utg323152_22","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","V","-","polyketide synthase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"206","OG0007019","Utg323152_23","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","K","Acetyltransf_1,Aminotran_1_2,DinB_2,EAL,GGDEF,KAsynt_C_assoc,Ketoacyl-synt_C,PAS_4,PP-binding,ketoacyl-synt","acetyltransferase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"207","OG0007020","Utg323152_25","binsanity_sample06.txt.002.emapper.annotations","135623|Vibrionales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"208","OG0007021","Utg323152_28","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","metXA","E","Abhydrolase_1,Homoserine_dh,NAD_binding_3","Transfers an acetyl group from acetyl-CoA to L- homoserine, forming acetyl-L-homoserine",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"209","OG0007022","Utg323152_35","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","MU","OEP","Outer membrane efflux protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"210","OG0007023","Utg323152_37",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","OG0007024","Utg323152_60",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"212","OG0007025","Utg323152_81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"213","OG0007026","Utg323152_117","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","K","TetR_N","Bacterial regulatory proteins, tetR family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"214","OG0007027","Utg323152_131",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"215","OG0007028","Utg323152_160",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"216","OG0007029","Utg323152_171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"217","OG0007030","Utg323152_178",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"218","OG0007031","Utg323152_232",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"219","OG0007032","Utg323152_282",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","OG0007033","Utg323152_353","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","ddhC","M","DegT_DnrJ_EryC1","DegT/DnrJ/EryC1/StrS aminotransferase family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"221","OG0007034","Utg323152_354","binsanity_sample06.txt.002.emapper.annotations","1239|Firmicutes","-","G","dTDP_sugar_isom","Catalyzes the epimerization of the C3' and C5'positions of dTDP-6-deoxy-D-xylo-4-hexulose, forming dTDP-6-deoxy-L-lyxo-4- hexulose",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"222","OG0007035","Utg323152_355","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","rfbC","M","dTDP_sugar_isom","dTDP-4-dehydrorhamnose 3,5-epimerase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223","OG0007036","Utg323152_364",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"224","OG0007037","Utg323152_372",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"225","OG0007038","Utg323152_406",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"226","OG0007039","Utg323152_461","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","S","Lactamase_B","competence protein COMEC",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"227","OG0007040","Utg323152_462","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"228","OG0007041","Utg323152_468",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"229","OG0007042","Utg323152_469",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"230","OG0007043","Utg323152_507",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"231","OG0007044","Utg323152_525",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","OG0007045","Utg323152_526",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233","OG0007046","Utg323152_527","binsanity_sample06.txt.002.emapper.annotations","135613|Chromatiales","-","M","PKD","domain protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"234","OG0007047","Utg323152_528",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"235","OG0007048","Utg323152_530","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","KT","CBS,HTH_8,PAS,PAS_4,PAS_8,PAS_9,Sigma54_activat","PFAM sigma-54 factor interaction domain-containing protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"236","OG0007049","Utg323152_531",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"237","OG0007050","Utg323152_541",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"238","OG0007051","Utg323152_549","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","DZ","RCC1,RCC1_2","Alpha-tubulin suppressor and related RCC1 domain-containing proteins",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"239","OG0007052","Utg323152_567",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"240","OG0007053","Utg323152_582",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"241","OG0007054","Utg323152_587","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","T","HATPase_c,HisKA,PAS_4,Response_reg","Histidine kinase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"242","OG0007055","Utg323152_596","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","cbiET","H","Cons_hypoth95,Methyltransf_31,Methyltransf_4,PCMT,TP_methylase","precorrin-6Y C5,15-methyltransferase (decarboxylating), CbiT subunit",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","OG0007056","Utg323152_601","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","DUF4105","Domain of unknown function (DUF4105)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","OG0007057","Utg323152_610",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"245","OG0007058","Utg323152_611","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"246","OG0007059","Utg323152_613","binsanity_sample06.txt.002.emapper.annotations","33208|Metazoa","PPP1R16B","OT","Ank_2,Ank_4,Ank_5","Ankyrin repeats (many copies)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"247","OG0007060","Utg323152_614",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"248","OG0007061","Utg323160_15","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","H","Nitro_FeMo-Co","Dinitrogenase iron-molybdenum cofactor",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"249","OG0007062","Utg323160_35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"250","OG0007063","Utg323160_44",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"251","OG0007064","Utg323160_45","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","L","Integrase_DNA,Phage_int_SAM_3,Phage_int_SAM_5,Phage_integrase","Phage integrase family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"252","OG0007065","Utg323160_52","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","M","PKD,VCBS","PKD domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"253","OG0007066","Utg323160_53",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"254","OG0007067","Utg323160_56","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","Q","Collagen","Collagen triple helix repeat (20 copies)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"255","OG0007068","Utg323160_82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"256","OG0007069","Utg323160_89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"257","OG0007070","Utg323160_97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"258","OG0007071","Utg323160_98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"259","OG0007072","Utg323160_99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"260","OG0007073","Utg323160_102","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","T","HTH_8,Response_reg,Sigma54_activat","Response regulator with CheY-like receiver, AAA-type ATPase, and DNA-binding domains",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"261","OG0007074","Utg323160_103","binsanity_sample06.txt.002.emapper.annotations","2759|Eukaryota","-","G","HATPase_c,HisKA,PAS,PfkB,Response_reg","carbohydrate kinase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"262","OG0007075","Utg323160_105",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"263","OG0007076","Utg323160_114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"264","OG0007077","Utg323180_17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"265","OG0007078","Utg323180_50","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","M","RHS,RHS_repeat","RHS protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"266","OG0007079","Utg323180_51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","OG0007080","Utg323180_55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","OG0007081","Utg323180_60",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"269","OG0007082","Utg323180_62",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"270","OG0007083","Utg323180_83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"271","OG0007084","Utg323180_91","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","N","CUB","PFAM SMP-30 Gluconolaconase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"272","OG0007085","Utg323180_93","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"273","OG0007086","Utg323180_97","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","Q","Cu-oxidase_3","Parallel beta-helix repeats",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"274","OG0007087","Utg323180_125",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"275","OG0007088","Utg323180_128",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"276","OG0007089","Utg323180_146",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"277","OG0007090","Utg323180_147","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"278","OG0007091","Utg323180_150","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","M","-","Forms passive diffusion pores that allow small molecular weight hydrophilic materials across the outer membrane",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"279","OG0007092","Utg323180_173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"280","OG0007093","Utg323180_175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"281","OG0007094","Utg323180_176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"282","OG0007095","Utg323180_178","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","K","Acetyltransf_10","Acetyltransferase (GNAT) domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"283","OG0007096","Utg323180_212",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"284","OG0007097","Utg323180_215",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"285","OG0007098","Utg323180_220",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"286","OG0007099","Utg323180_226",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"287","OG0007100","Utg323180_289","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","C","CHU_C,GT87,PD40,VCBS","PFAM blue (type 1) copper domain protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"288","OG0007101","Utg323180_296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"289","OG0007102","Utg323180_302",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"290","OG0007103","Utg323180_303",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"291","OG0007104","Utg323180_306","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","H","-","(ABC) transporter",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"292","OG0007105","Utg323180_320",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"293","OG0007106","Utg323180_322",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"294","OG0007107","Utg323180_323",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"295","OG0007108","Utg323180_324",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"296","OG0007109","Utg323180_325",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"297","OG0007110","Utg323180_326","binsanity_sample06.txt.002.emapper.annotations","203691|Spirochaetes","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"298","OG0007111","Utg323180_328","binsanity_sample06.txt.002.emapper.annotations","135613|Chromatiales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"299","OG0007112","Utg323180_330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"300","OG0007113","Utg323180_331","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"301","OG0007114","Utg323180_332","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"302","OG0007115","Utg323180_334","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","DUF4393","Domain of unknown function (DUF4393)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"303","OG0007116","Utg323180_335","binsanity_sample06.txt.002.emapper.annotations","29547|Epsilonproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"304","OG0007117","Utg323180_336","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","F","-","Catalyzes the irreversible cleavage of the glycosidic bond in both 5'-methylthioadenosine (MTA) and S- adenosylhomocysteine (SAH AdoHcy) to adenine and the corresponding thioribose, 5'-methylthioribose and S-ribosylhomocysteine, respectively",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"305","OG0007118","Utg323180_337",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"306","OG0007119","Utg323180_338","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"307","OG0007120","Utg323180_339",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"308","OG0007121","Utg323180_340","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","DUF3987","Protein of unknown function (DUF3987)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"309","OG0007122","Utg323180_341",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"310","OG0007123","Utg323180_343",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"311","OG0007124","Utg323180_346","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"312","OG0007125","Utg323180_347",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"313","OG0007126","Utg323180_349",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"314","OG0007127","Utg323180_351","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","E","Peptidase_M78","Pfam:DUF955",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"315","OG0007128","Utg323180_352","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","hemC","H","Porphobil_deam,Porphobil_deamC","hydroxymethylbilane synthase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"316","OG0007129","Utg323180_353","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"317","OG0007130","Utg323180_355","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"318","OG0007131","Utg323180_357","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","yhbD","K","DUF4004,MerR_1","bacterial-type RNA polymerase transcription factor activity, metal ion regulated sequence-specific DNA binding",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"319","OG0007132","Utg323180_364","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","DUF2235","Uncharacterized alpha/beta hydrolase domain (DUF2235)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"320","OG0007133","Utg323180_365","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"321","OG0007134","Utg323180_366","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","P","CHAT,WD40","PFAM WD domain, G-beta repeat",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","OG0007135","Utg323180_367",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"323","OG0007136","Utg323180_368","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"324","OG0007137","Utg323180_372","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"325","OG0007138","Utg323180_375","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","L","-","Transposase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"326","OG0007139","Utg323180_376","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","O","Peptidase_C1","transferase activity, transferring glycosyl groups",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"327","OG0007140","Utg323180_380",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"328","OG0007141","Utg323180_381",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"329","OG0007142","Utg323180_382","binsanity_sample06.txt.002.emapper.annotations","203691|Spirochaetes","dapB","E","DapB_C,DapB_N","Catalyzes the conversion of 4-hydroxy- tetrahydrodipicolinate (HTPA) to tetrahydrodipicolinate",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"330","OG0007143","Utg323180_387",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"331","OG0007144","Utg323180_389",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","OG0007145","Utg323180_394","binsanity_sample06.txt.002.emapper.annotations","2759|Eukaryota","-","S","RPAP3_C,TPR_1,TPR_16,TPR_2,TPR_8","protein binding, bridging",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","OG0007146","Utg323180_406","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","E","DUF1704,FGase","DUF1704",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"334","OG0007147","Utg323180_410",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"335","OG0007148","Utg323180_414",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"336","OG0007149","Utg323180_443","binsanity_sample06.txt.002.emapper.annotations","204441|Rhodospirillales","-","T","HTH_8,Response_reg,Sigma54_activat","COG2204 Response regulator containing CheY-like receiver, AAA-type ATPase, and DNA-binding domains",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"337","OG0007150","Utg323180_463",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"338","OG0007151","Utg323180_537","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"339","OG0007152","Utg323180_541","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"340","OG0007153","Utg323180_554",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"341","OG0007154","Utg323180_555",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"342","OG0007155","Utg323180_565",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"343","OG0007156","Utg323180_571",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"344","OG0007157","Utg323180_572",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345","OG0007158","Utg323180_598","binsanity_sample06.txt.002.emapper.annotations","135613|Chromatiales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"346","OG0007159","Utg323180_614","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","T","EAL,GGDEF,MHYT,PAS,PAS_4,PAS_9,Response_reg","Response regulator receiver modulated diguanylate cyclase phosphodiesterase with PAS PAC sensor(S)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","OG0007160","Utg323180_626",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","OG0007161","Utg323180_637",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349","OG0007162","Utg323180_677","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","Q","-","COG2931, RTX toxins and related Ca2 -binding proteins",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"350","OG0007163","Utg323180_712",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"351","OG0007164","Utg323262_6",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"352","OG0007165","Utg323262_14","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","ArsP_2","Putative, 10TM heavy-metal exporter",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353","OG0007166","Utg323262_15","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","C","Flavodoxin_3","Flavodoxin domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354","OG0007167","Utg323262_24","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","DUF4255","Protein of unknown function (DUF4255)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","OG0007168","Utg323262_25","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","DUF4255","Protein of unknown function (DUF4255)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356","OG0007169","Utg323262_26","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","-","CarboxypepD_reg","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"357","OG0007170","Utg323262_27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"358","OG0007171","Utg323262_32","binsanity_sample06.txt.002.emapper.annotations","201174|Actinobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","OG0007172","Utg323262_34","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"360","OG0007173","Utg323262_35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"361","OG0007174","Utg323262_39","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","T","PAAR_motif","PAAR repeat-containing protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"362","OG0007175","Utg323262_44","binsanity_sample06.txt.002.emapper.annotations","91061|Bacilli","-","U","-","domain, Protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363","OG0007176","Utg323262_45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"364","OG0007177","Utg323262_48",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365","OG0007178","Utg323262_49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","OG0007179","Utg323262_52",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367","OG0007180","Utg323262_63",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","OG0007181","Utg323262_81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369","OG0007182","Utg323262_82","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","H","MoCF_biosynth,MoeA_C,MoeA_N","TIGRFAM molybdenum cofactor synthesis domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"370","OG0007183","Utg323262_90",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371","OG0007184","Utg323262_173",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","OG0007185","Utg323262_178",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","OG0007186","Utg323262_187","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374","OG0007187","Utg323262_188",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375","OG0007188","Utg323262_193","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","L","DDE_Tnp_ISL3,HTH_Tnp_ISL3,zf-ISL3","PFAM Transposase, IS204 IS1001 IS1096 IS1165",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376","OG0007189","Utg323262_198","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377","OG0007190","Utg323262_201","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378","OG0007191","Utg323262_206","binsanity_sample06.txt.002.emapper.annotations","1090|Chlorobi","-","T","Usp","PFAM UspA domain protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"379","OG0007192","Utg323262_207","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380","OG0007193","Utg323262_209",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"381","OG0007194","Utg323266_28","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","C","FmdE","FmdE, Molybdenum formylmethanofuran dehydrogenase operon",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","OG0007195","Utg323266_45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","OG0007196","Utg323266_58",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","OG0007197","Utg323266_77","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","O","Peptidase_S8","Belongs to the peptidase S8 family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","OG0007198","Utg323266_78","binsanity_sample06.txt.002.emapper.annotations","201174|Actinobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","OG0007199","Utg323266_82",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","OG0007200","Utg323266_89",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","OG0007201","Utg323266_93",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","OG0007202","Utg323266_104",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","OG0007203","Utg323266_107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","OG0007204","Utg323266_119",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"392","OG0007205","Utg323300_1","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"393","OG0007206","Utg323300_2","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"394","OG0007207","Utg323300_3",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"395","OG0007208","Utg323300_11","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","OG0007209","Utg323300_47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","OG0007210","Utg323300_50",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","OG0007211","Utg323300_53","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","UW","-","Hep Hag repeat protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"399","OG0007212","Utg323300_59","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","T","HATPase_c,HATPase_c_3","Histidine kinase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","OG0007213","Utg323300_60","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","OG0007214","Utg323300_61",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"402","OG0007215","Utg323300_65","binsanity_sample06.txt.002.emapper.annotations","135623|Vibrionales","-","Q","-","methyltransferase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403","OG0007216","Utg323300_66","binsanity_sample06.txt.002.emapper.annotations","84998|Coriobacteriia","-","H","B12-binding,B12-binding_2,Pterin_bind,S-methyl_trans","B12 binding domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404","OG0007217","Utg323300_67","binsanity_sample06.txt.002.emapper.annotations","203682|Planctomycetes","-","M","DDE_Tnp_1_4","PFAM Transposase DDE domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405","OG0007218","Utg323300_68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","OG0007219","Utg323300_69",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407","OG0007220","Utg323300_70",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","OG0007221","Utg323300_71",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"409","OG0007222","Utg323300_72",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","OG0007223","Utg323300_78","binsanity_sample06.txt.002.emapper.annotations","135614|Xanthomonadales","-","P","Cation_efflux,ZT_dimer","cation diffusion facilitator family transporter","binsanity_sample06.txt.002.emapper.genepred.fasta","iron_aquisition-iron_transport","FeoE",1203,NA,NA,NA,NA,NA
+"411","OG0007224","Utg323300_81",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","OG0007225","Utg323300_85","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","Glucosaminidase","FlgJ-related protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","OG0007226","Utg323300_92","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","C","PgaD","PgaD-like protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","OG0007227","Utg323300_94","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","glgP","G","Phosphorylase","Phosphorylase is an important allosteric enzyme in carbohydrate metabolism. Enzymes from different sources differ in their regulatory mechanisms and in their natural substrates. However, all known phosphorylases share catalytic and structural properties",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"415","OG0007228","Utg323300_102",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"416","OG0007229","Utg323300_110",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","OG0007230","Utg323300_111",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","OG0007231","Utg323300_129","binsanity_sample06.txt.002.emapper.annotations","2759|Eukaryota","-","U","MGAT2","alpha-1,6-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","OG0007232","Utg323300_148","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","C","B12-binding,Radical_SAM","radical SAM domain protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","OG0007233","Utg323300_149","binsanity_sample06.txt.002.emapper.annotations","1090|Chlorobi","-","Q","-","methyltransferase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","OG0007234","Utg323300_175","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","OG0007235","Utg323300_208",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","OG0007236","Utg323300_210","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","S","CHAT,LCAT","Lecithin:cholesterol acyltransferase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","OG0007237","Utg323300_219",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","OG0007238","Utg323300_222","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","C","OAD_beta","TIGRFAM sodium ion-translocating decarboxylase, beta subunit",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"426","OG0007239","Utg323300_264",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"427","OG0007240","Utg323300_287",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"428","OG0007241","Utg323300_289",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"429","OG0007242","Utg323300_335","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","TPR_19","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"430","OG0007243","Utg323300_336","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","C","HEAT_2","E-Z type HEAT repeats",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","OG0007244","Utg323300_355",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"432","OG0007245","Utg323300_366",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","OG0007246","Utg323300_391",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","OG0007247","Utg323300_426",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","OG0007248","Utg323300_429",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","OG0007249","Utg323300_434","binsanity_sample06.txt.002.emapper.annotations","224756|Methanomicrobia","-","S","YoaP","YoaP-like",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","OG0007250","Utg323300_437",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","OG0007251","Utg323300_438","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","OG0007252","Utg323300_439","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","OG0007253","Utg323300_440",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441","OG0007254","Utg323300_446","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"442","OG0007255","Utg323300_447",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443","OG0007256","Utg323300_448",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444","OG0007257","Utg323300_451",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445","OG0007258","Utg323316_2",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","OG0007259","Utg323316_18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","OG0007260","Utg323316_19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","OG0007261","Utg323316_23",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","OG0007262","Utg323316_28",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","OG0007263","Utg323316_29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","OG0007264","Utg323316_30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","OG0007265","Utg323316_31","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","OG0007266","Utg323316_32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","OG0007267","Utg323316_33","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","DUF4279","Domain of unknown function (DUF4279)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","OG0007268","Utg323316_34","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","T","HATPase_c,HisKA","Histidine kinase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","OG0007269","Utg323316_43",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"457","OG0007270","Utg323316_45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","OG0007271","Utg323316_46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","OG0007272","Utg323316_47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","OG0007273","Utg323316_52","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","Nif11","Nif11 domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","OG0007274","Utg323316_53","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","Q","Collagen","Collagen triple helix repeat (20 copies)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","OG0007275","Utg323316_54",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"463","OG0007276","Utg323316_55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","OG0007277","Utg323316_56",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","OG0007278","Utg323316_57",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"466","OG0007279","Utg323316_59",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","OG0007280","Utg323316_60","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","V","-","HNH endonuclease",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","OG0007281","Utg323316_61","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","M","Glyco_trans_1_4,Glyco_trans_4_2,Glyco_transf_4,Glycos_transf_1,Glycos_transf_2","transferase activity, transferring glycosyl groups",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","OG0007282","Utg323316_62",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","OG0007283","Utg323316_63","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","OG0007284","Utg323316_137",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","OG0007285","Utg323316_139",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","OG0007286","Utg323316_164",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","OG0007287","Utg323316_167",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","OG0007288","Utg323316_193","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","Amidohydro_2","amidohydrolase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476","OG0007289","Utg323316_197","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","M","CW_binding_2,CarboxypepD_reg,Flg_new,NHL,PD40,Peptidase_S8,TIG,VCBS","cell wall organization",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477","OG0007290","Utg323316_230",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","OG0007291","Utg323316_241",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","OG0007292","Utg323316_247","binsanity_sample06.txt.002.emapper.annotations","91061|Bacilli","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","OG0007293","Utg323316_250",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","OG0007294","Utg323316_257","binsanity_sample06.txt.002.emapper.annotations","135623|Vibrionales","-","L","Y1_Tnp","Transposase IS200 like",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","OG0007295","Utg323316_258",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","OG0007296","Utg323316_262",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","OG0007297","Utg323316_273","binsanity_sample06.txt.002.emapper.annotations","204457|Sphingomonadales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","OG0007298","Utg323316_289",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","OG0007299","Utg323316_293",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","OG0007300","Utg323316_294",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","OG0007301","Utg323316_296",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","OG0007302","Utg323316_354",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","OG0007303","Utg323316_356","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","OG0007304","Utg323316_358",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","OG0007305","Utg323316_359",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","OG0007306","Utg323316_360",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","OG0007307","Utg323316_361",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"495","OG0007308","Utg323316_362",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","OG0007309","Utg323316_363",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","OG0007310","Utg323316_365",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","OG0007311","Utg323392_11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"499","OG0007312","Utg323392_30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"500","OG0007313","Utg323392_38","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","K","Acetyltransf_10,Acetyltransf_7","Acetyltransferase (GNAT) domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","OG0007314","Utg323392_51",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"502","OG0007315","Utg323392_74","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","S","SpoIIAA-like","SpoIIAA-like",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","OG0007316","Utg323392_91",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","OG0007317","Utg323392_95","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","priA","L","DEAD,Helicase_C,ResIII","Involved in the restart of stalled replication forks. Recognizes and binds the arrested nascent DNA chain at stalled replication forks. It can open the DNA duplex, via its helicase activity, and promote assembly of the primosome and loading of the major replicative helicase DnaB onto DNA",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","OG0007318","Utg323392_97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","OG0007319","Utg323392_99",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","OG0007320","Utg323392_114",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","OG0007321","Utg323392_118","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","NU","T2SSE,T2SSE_N","Type II secretion system (T2SS), protein E, N-terminal domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","OG0007322","Utg323392_120","binsanity_sample06.txt.002.emapper.annotations","135619|Oceanospirillales","-","M","DUF3524,Glyco_trans_1_4,Glycos_transf_1","Domain of unknown function (DUF3524)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","OG0007323","Utg323392_168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","OG0007324","Utg323392_171",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","OG0007325","Utg323392_179","binsanity_sample06.txt.002.emapper.annotations","91061|Bacilli","dctR","T","FaeA,HTH_11,HTH_DeoR,HTH_IclR,Response_reg","COG4565 Response regulator of citrate malate metabolism",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"513","OG0007326","Utg323392_189",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","OG0007327","Utg323392_191",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"515","OG0007328","Utg323392_193",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","OG0007329","Utg323392_203",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","OG0007330","Utg323392_236","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"518","OG0007331","Utg323392_239",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","OG0007332","Utg323392_242",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"520","OG0007333","Utg323392_250",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","OG0007334","Utg323392_259",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","OG0007335","Utg323392_268",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","OG0007336","Utg323392_269","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","S","DUF2793","Protein of unknown function (DUF2793)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","OG0007337","Utg323392_270","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","S","-","chitinase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","OG0007338","Utg323392_271","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","M","Phage_HK97_TLTM","tape measure protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","OG0007339","Utg323448_107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"527","OG0007340","Utg323448_119",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","OG0007341","Utg323632_32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","OG0007342","Utg323632_48",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","OG0007343","Utg323632_53","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","lysS","J","tRNA-synt_2,tRNA_anti-codon","Belongs to the class-II aminoacyl-tRNA synthetase family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","OG0007344","Utg323632_55",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"532","OG0007345","Utg323632_83",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","OG0007346","Utg323632_97",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","OG0007347","Utg323632_106","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","murG","M","Glyco_tran_28_C,Glyco_transf_28","Cell wall formation. Catalyzes the transfer of a GlcNAc subunit on undecaprenyl-pyrophosphoryl-MurNAc-pentapeptide (lipid intermediate I) to form undecaprenyl-pyrophosphoryl-MurNAc- (pentapeptide)GlcNAc (lipid intermediate II)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"535","OG0007348","Utg323632_129",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","OG0007349","Utg323632_150","binsanity_sample06.txt.002.emapper.annotations","2157|Archaea","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"537","OG0007350","Utg323632_151",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"538","OG0007351","Utg323632_152","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","OG0007352","Utg323632_153",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"540","OG0007353","Utg323632_154","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","D","-","nuclear chromosome segregation",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","OG0007354","Utg323632_155",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"542","OG0007355","Utg323632_156","binsanity_sample06.txt.002.emapper.annotations","10699|Siphoviridae","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"543","OG0007356","Utg323632_157","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","OG0007357","Utg323632_158",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","OG0007358","Utg323632_162","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","DUF2190","protein B3ORF37 Bacteriophage B3 gi 33338631 gb AAQ13955.1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"546","OG0007359","Utg323632_163","binsanity_sample06.txt.002.emapper.annotations","135613|Chromatiales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","OG0007360","Utg323632_164","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","Phage_tail_S","Phage virion morphogenesis family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","OG0007361","Utg323632_168",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549","OG0007362","Utg323632_169",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","OG0007363","Utg323632_170","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","OG0007364","Utg323632_172",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","OG0007365","Utg323632_173","binsanity_sample06.txt.002.emapper.annotations","204441|Rhodospirillales","-","M","SLT","Transglycosylase SLT domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","OG0007366","Utg323632_174","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","M","SLT","Transglycosylase SLT domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"554","OG0007367","Utg323632_175",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","OG0007368","Utg323632_176",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","OG0007369","Utg323632_177","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","HIRAN","HIRAN domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","OG0007370","Utg323632_178","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","HipA_C","peptidyl-serine autophosphorylation",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","OG0007371","Utg323632_179","binsanity_sample06.txt.002.emapper.annotations","206389|Rhodocyclales","-","S","-","PFAM Mor transcription activator",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"559","OG0007372","Utg323632_181","binsanity_sample06.txt.002.emapper.annotations","135625|Pasteurellales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","OG0007373","Utg323632_182",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"561","OG0007374","Utg323632_183","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","Phage_Mu_Gam","Bacteriophage Mu Gam like protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"562","OG0007375","Utg323632_184",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","OG0007376","Utg323632_185","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","OG0007377","Utg323632_186",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"565","OG0007378","Utg323632_190",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","OG0007379","Utg323632_191","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"567","OG0007380","Utg323632_192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","OG0007381","Utg323632_194",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","OG0007382","Utg323632_195",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570","OG0007383","Utg323632_196","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","DUF4747","Domain of unknown function (DUF4747)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","OG0007384","Utg323632_197","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","OG0007385","Utg323632_201",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"573","OG0007386","Utg323632_202",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","OG0007387","Utg323632_215",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","OG0007388","Utg323632_223",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","OG0007389","Utg323632_240","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","ftsE","D","ABC_tran","PFAM ABC transporter",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","OG0007390","Utg323632_243","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","ileS","J","Anticodon_1,tRNA-synt_1,zf-FPG_IleRS","amino acids such as valine, to avoid such errors it has two additional distinct tRNA(Ile)-dependent editing activities. One activity is designated as 'pretransfer' editing and involves the hydrolysis of activated Val-AMP. The other activity is designated 'posttransfer' editing and involves deacylation of mischarged Val-tRNA(Ile)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","OG0007391","Utg323632_252",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","OG0007392","Utg323632_254",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"580","OG0007393","Utg323632_257",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"581","OG0007394","Utg323632_265","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","Beta_helix","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"582","OG0007395","Utg323632_266","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","P","SdiA-regulated","Parallel beta-helix repeats",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","OG0007396","Utg323632_275",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","OG0007397","Utg323632_322",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","OG0007398","Utg323632_323","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","G","CBM_6,Dockerin_1,Laminin_G_3","Parallel beta-helix repeats",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","OG0007399","Utg323632_325",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","OG0007400","Utg323632_330",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","OG0007401","Utg323632_346","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","S","Metallophos","acid phosphatase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","OG0007402","Utg323632_347","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","S","Metallophos","acid phosphatase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","OG0007403","Utg323632_354","binsanity_sample06.txt.002.emapper.annotations","135619|Oceanospirillales","-","G","Peripla_BP_4","Periplasmic binding protein domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","OG0007404","Utg323632_382","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"592","OG0007405","Utg323632_388",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","OG0007406","Utg323632_389",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","OG0007407","Utg323632_391","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"595","OG0007408","Utg323632_392","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","HTH_26","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"596","OG0007409","Utg323632_394","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","K","HTH_Tnp_Mu_1","Mu DNA-binding domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","OG0007410","Utg323990_7","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","OG0007411","Utg323990_10","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","M","GDP_Man_Dehyd","GDP-mannose 4,6-dehydratase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","OG0007412","Utg323990_18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","OG0007413","Utg323990_21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"601","OG0007414","Utg323990_22","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","N","Competence,DUF4131,Lactamase_B","competence protein COMEC",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"602","OG0007415","Utg323990_24",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","OG0007416","Utg323990_25","binsanity_sample06.txt.002.emapper.annotations","91061|Bacilli","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","OG0007417","Utg323990_29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","OG0007418","Utg323990_35",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"606","OG0007419","Utg323990_36",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"607","OG0007420","Utg323990_44",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"608","OG0007421","Utg323990_45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"609","OG0007422","Utg323990_46",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","OG0007423","Utg323990_47",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","OG0007424","Utg323990_48","binsanity_sample06.txt.002.emapper.annotations","1239|Firmicutes","-","L","PriCT_1,Prim-Pol","Bifunctional DNA primase/polymerase, N-terminal",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","OG0007425","Utg323990_49",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","OG0007426","Utg323990_50",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"614","OG0007427","Utg323990_52","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"615","OG0007428","Utg323990_53","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","L","Phage_integrase","viral genome integration into host DNA",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"616","OG0007429","Utg323990_54","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","L","Y1_Tnp","COG1943 Transposase and inactivated derivatives",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"617","OG0007430","Utg323990_55","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","L","Phage_int_SAM_4,Phage_integrase","Belongs to the 'phage' integrase family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","OG0007431","Utg323990_115","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","Peptidase_C92","Permuted papain-like amidase enzyme, YaeF/YiiX, C92 family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","OG0007432","Utg323990_124",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"620","OG0007433","Utg323990_148","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","dnaJ","O","DnaJ,DnaJ_C,DnaJ_CXXCXGXG","ATP binding to DnaK triggers the release of the substrate protein, thus completing the reaction cycle. Several rounds of ATP-dependent interactions between DnaJ, DnaK and GrpE are required for fully efficient folding. Also involved, together with DnaK and GrpE, in the DNA replication of plasmids through activation of initiation proteins",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","OG0007434","Utg323990_185",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"622","OG0007435","Utg323990_186",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"623","OG0007436","Utg323990_187","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","NU","GspH,N_methyl","Prokaryotic N-terminal methylation motif",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","OG0007437","Utg323990_192",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"625","OG0007438","Utg323990_196",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"626","OG0007439","Utg323990_198","binsanity_sample06.txt.002.emapper.annotations","200795|Chloroflexi","-","M","Glyco_trans_1_4,Glyco_trans_4_4,Glyco_transf_4,Glycos_transf_1","PFAM glycosyl transferase group 1",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"627","OG0007440","Utg323990_199","binsanity_sample06.txt.002.emapper.annotations","1117|Cyanobacteria","-","S","MVIN","TIGRFAM integral membrane protein MviN",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"628","OG0007441","Utg323990_202","binsanity_sample06.txt.002.emapper.annotations","118969|Legionellales","-","Q","-","Methyltransferase domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","OG0007442","Utg323990_219",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","OG0007443","Utg323990_221",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","OG0007444","Utg323990_222",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"632","OG0007445","Utg323990_224",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"633","OG0007446","Utg323990_225",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"634","OG0007447","Utg323990_226","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","S","Haemolytic","Haemolytic domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"635","OG0007448","Utg323990_228",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"636","OG0007449","Utg323990_229","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"637","OG0007450","Utg323990_233",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","OG0007451","Utg323990_234","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","S","DUF1353","Protein of unknown function (DUF1353)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","OG0007452","Utg323990_235",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"640","OG0007453","Utg323990_237","binsanity_sample06.txt.002.emapper.annotations","91061|Bacilli","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"641","OG0007454","Utg323990_238","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"642","OG0007455","Utg323990_239",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"643","OG0007456","Utg323990_240",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"644","OG0007457","Utg323990_244","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645","OG0007458","Utg323990_245","binsanity_sample06.txt.002.emapper.annotations","28216|Betaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"646","OG0007459","Utg323990_247",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","OG0007460","Utg323990_248","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","T","HATPase_c","Histidine kinase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"648","OG0007461","Utg323990_249",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","OG0007462","Utg324548_7","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","T","HAMP,HATPase_c,HisKA,PAS,PAS_4,PAS_9,Response_reg","Histidine kinase-, DNA gyrase B-, and HSP90-like ATPase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"650","OG0007463","Utg324548_39","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","-","G","-","alpha-ribazole phosphatase activity",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"651","OG0007464","Utg324548_42",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"652","OG0007465","Utg324548_43","binsanity_sample06.txt.002.emapper.annotations","976|Bacteroidetes","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","OG0007466","Utg324548_44",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","OG0007467","Utg324548_45","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","S","DUF4279","Domain of unknown function (DUF4279)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"655","OG0007468","Utg324810_15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","OG0007469","Utg324810_17","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","U","Secretin,Secretin_N","Bacterial type II/III secretion system short domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"657","OG0007470","Utg324810_27",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","OG0007471","Utg324810_70","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","-","protein conserved in bacteria",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","OG0007472","Utg324810_72","binsanity_sample06.txt.002.emapper.annotations","1297|Deinococcus-Thermus","-","S","DUF4115,HTH_25,PEGA","PEGA domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"660","OG0007473","Utg324810_78",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","OG0007474","Utg324810_84","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","E","Trp_Tyr_perm","Tryptophan/tyrosine permease family",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","OG0007475","Utg324810_92",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"663","OG0007476","Utg324810_94","binsanity_sample06.txt.002.emapper.annotations","206350|Nitrosomonadales","-","S","DUF4124","Domain of unknown function (DUF4124)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"664","OG0007477","Utg324810_95",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"665","OG0007478","Utg324810_98",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"666","OG0007479","Utg324810_101","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","S","Nif11","Nif11 domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","OG0007480","Utg324810_107",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"668","OG0007481","Utg325220_4",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","OG0007482","Utg325220_7",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"670","OG0007483","Utg325220_8","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"671","OG0007484","Utg325220_9",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"672","OG0007485","Utg325220_10",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","OG0007486","Utg325220_12",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","OG0007487","Utg325220_13",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"675","OG0007488","Utg325220_14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"676","OG0007489","Utg325220_15",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"677","OG0007490","Utg325220_18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"678","OG0007491","Utg325220_19",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","OG0007492","Utg325220_20",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"680","OG0007493","Utg325220_21","binsanity_sample06.txt.002.emapper.annotations","28211|Alphaproteobacteria","gpA","L","Terminase_GpA","Terminase",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"681","OG0007494","Utg325220_22",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"682","OG0007495","Utg325220_23",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","OG0007496","Utg325220_25",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"684","OG0007497","Utg325220_26",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","OG0007498","Utg325220_27","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","OG0007499","Utg325220_28","binsanity_sample06.txt.002.emapper.annotations","1224|Proteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","OG0007500","Utg325220_29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"688","OG0007501","Utg325220_30","binsanity_sample06.txt.002.emapper.annotations","135618|Methylococcales","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","OG0007502","Utg325220_31","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","Peptidase_C14","Caspase domain",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","OG0007503","Utg325220_32","binsanity_sample06.txt.002.emapper.annotations","186801|Clostridia","-","S","DUF1863","MTH538 TIR-like domain (DUF1863)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","OG0007504","Utg325220_33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","OG0007505","Utg325220_34",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","OG0007506","Utg325220_37","binsanity_sample06.txt.002.emapper.annotations","201174|Actinobacteria","-","S","DUF2190","Uncharacterized conserved protein (DUF2190)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","OG0007507","Utg325220_39",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"695","OG0007508","Utg325220_40","binsanity_sample06.txt.002.emapper.annotations","28221|Deltaproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"696","OG0007509","Utg325220_41",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"697","OG0007510","Utg325220_42",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"698","OG0007511","Utg325220_43",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","OG0007512","Utg325220_74","binsanity_sample06.txt.002.emapper.annotations","29547|Epsilonproteobacteria","-","-","-","-",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","OG0007513","Utg325220_77","binsanity_sample06.txt.002.emapper.annotations","2|Bacteria","-","L","Cupin_1,Cupin_2,DUF4437,Haem_oxygenas_2,KduI","Cupin 2, conserved barrel domain protein",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"701","OG0007514","Utg325220_96","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","S","Ank_2,Ank_4,Ank_5","Ankyrin repeat",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"702","OG0007515","Utg325220_99","binsanity_sample06.txt.002.emapper.annotations","1236|Gammaproteobacteria","-","D","-","Lytic transglycosylase with a strong preference for naked glycan strands that lack stem peptides",NA,NA,NA,NA,NA,NA,NA,NA,NA

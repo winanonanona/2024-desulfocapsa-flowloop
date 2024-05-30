@@ -1,0 +1,40 @@
+[2023-03-17 13:42:16] INFO: CheckM v1.1.3
+[2023-03-17 13:42:16] INFO: checkm qa 07_checkm/aa_FINAL_04_TRIMMED_CONFIRM/lineage.ms 07_checkm/aa_FINAL_04_TRIMMED_CONFIRM --tab_table
+[2023-03-17 13:42:16] INFO: [CheckM - qa] Tabulating genome statistics.
+[2023-03-17 13:42:16] INFO: Calculating AAI between multi-copy marker genes.
+[2023-03-17 13:42:16] INFO: Reading HMM info from file.
+[2023-03-17 13:42:18] INFO: Parsing HMM hits to marker genes:
+Bin Id	Marker lineage	# genomes	# markers	# marker sets	0	1	2	3	4	5+	Completeness	Contamination	Strain heterogeneity
+binsanity_sample01.txt.014	k__Bacteria (UID2495)	2993	147	91	3	142	2	0	0	0	96.70	1.10	0.00
+binsanity_sample06.txt.002	c__Deltaproteobacteria (UID3217)	62	280	168	3	275	2	0	0	0	98.74	0.79	0.00
+concoct_sample01.txt.034	c__Deltaproteobacteria (UID3217)	62	280	168	1	267	12	0	0	0	99.80	0.40	50.00
+concoct_sample01.txt.041	k__Bacteria (UID3060)	138	338	246	51	259	28	0	0	0	84.71	7.83	28.57
+concoct_sample03.txt.011	c__Deltaproteobacteria (UID3216)	83	247	155	5	240	2	0	0	0	97.58	1.29	100.00
+concoct_sample03.txt.012	c__Deltaproteobacteria (UID3218)	61	284	169	50	225	9	0	0	0	84.58	3.35	44.44
+concoct_sample03.txt.038	k__Bacteria (UID2569)	434	278	186	14	263	1	0	0	0	95.79	0.54	0.00
+concoct_sample10.txt.012	k__Bacteria (UID2565)	2921	143	88	9	133	1	0	0	0	90.62	1.14	0.00
+concoct_sample10.txt.016	k__Bacteria (UID3060)	138	335	244	8	320	7	0	0	0	97.13	2.87	71.43
+concoct_sample10.txt.017	c__Gammaproteobacteria (UID4274)	112	577	287	18	554	5	0	0	0	96.02	1.57	20.00
+concoct_sample13.txt.041	p__Euryarchaeota (UID49)	95	228	153	28	198	2	0	0	0	87.12	0.98	0.00
+concoct_sample13.txt.051	p__Proteobacteria (UID3880)	1495	260	164	1	259	0	0	0	0	99.39	0.00	0.00
+concoct_sample13.txt.052	p__Euryarchaeota (UID5)	32	308	210	6	302	0	0	0	0	97.84	0.00	0.00
+maxbin_sample01.txt.002	k__Bacteria (UID1452)	924	160	109	26	134	0	0	0	0	77.98	0.00	0.00
+maxbin_sample01.txt.012	p__Proteobacteria (UID3880)	1495	260	164	11	245	4	0	0	0	93.60	2.44	75.00
+maxbin_sample02.txt.001	k__Bacteria (UID3060)	138	338	246	11	313	14	0	0	0	96.70	1.81	35.71
+maxbin_sample03.txt.003	p__Proteobacteria (UID3061)	115	395	260	21	345	29	0	0	0	97.10	5.82	3.45
+maxbin_sample10.txt.007	k__Bacteria (UID203)	5449	104	58	16	87	1	0	0	0	75.71	0.86	0.00
+maxbin_sample13.txt.004	k__Bacteria (UID3060)	138	335	244	23	300	12	0	0	0	98.64	3.21	0.00
+maxbin_sample13.txt.006	p__Proteobacteria (UID3061)	115	395	260	45	330	20	0	0	0	90.61	3.49	85.00
+metabat_sample01.txt.019	c__Deltaproteobacteria (UID3216)	83	247	155	28	208	10	1	0	0	89.71	2.87	84.62
+metabat_sample02.txt.007	c__Deltaproteobacteria (UID3218)	61	284	169	41	234	9	0	0	0	88.73	2.98	66.67
+metabat_sample02.txt.018	k__Bacteria (UID3060)	138	338	246	86	247	5	0	0	0	77.87	1.83	60.00
+metabat_sample02.txt.020	k__Bacteria (UID2982)	88	230	148	42	184	3	1	0	0	77.43	2.70	0.00
+metabat_sample03.txt.002	c__Deltaproteobacteria (UID3217)	62	280	168	6	273	1	0	0	0	98.54	0.30	0.00
+metabat_sample03.txt.019	k__Bacteria (UID2569)	434	278	186	4	267	7	0	0	0	97.85	0.83	14.29
+metabat_sample03.txt.020	o__Clostridiales (UID1120)	304	249	142	7	242	0	0	0	0	95.77	0.00	0.00
+metabat_sample03.txt.026	k__Bacteria (UID3060)	138	338	246	66	256	16	0	0	0	82.16	4.88	56.25
+metabat_sample03.txt.027	k__Bacteria (UID2569)	434	278	186	6	269	3	0	0	0	98.05	0.63	0.00
+metabat_sample13.txt.004	c__Deltaproteobacteria (UID3217)	62	280	168	8	271	1	0	0	0	97.60	0.60	0.00
+metabat_sample13.txt.008	k__Bacteria (UID2570)	433	272	182	1	270	1	0	0	0	99.45	0.55	100.00
+metabat_sample13.txt.014_sub	k__Bacteria (UID3060)	138	336	244	8	291	37	0	0	0	98.44	6.08	91.89
+[2023-03-17 13:42:25] INFO: { Current stage: 0:00:08.762 || Total: 0:00:08.762 }

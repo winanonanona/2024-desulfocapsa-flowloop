@@ -1,0 +1,164 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library(tidyverse)
+library(vegan)
+```
+
+# Bar plot
+```{r}
+trimmed_relabund <- read.delim("sampl_final_TRIMMED_bins_coverage/relative_abundance.tsv")
+trimmed_names <- readxl::read_excel("sampl_bindeets_gtdbtk_checkm.xlsx", sheet = "FINAL Trimmed names")
+
+colnames(trimmed_relabund)[2:8] <- c("THPS-A-1",
+                                     "THPS-A-2",
+                                     "Glut-A-1",
+                                     "Glut-A-2",
+                                     "Cont-A-1",
+                                     "Cont-C-1",
+                                     "THPS-C-1")
+trimmed_relabund_names <- trimmed_relabund %>% 
+  left_join(trimmed_names, by = c("Genome"="user_genome")) 
+
+trimmed_relabund_plot <- trimmed_relabund_names%>% 
+  gather(sample, relative_abundance, `THPS-A-1`:`THPS-C-1`)
+
+p1 <- ggplot(trimmed_relabund_plot, aes(x = sample, y = relative_abundance, fill = `Short Name`)) +
+  geom_bar(stat = "identity", colour = "black") +
+  theme_bw() +
+  viridis::scale_fill_viridis(discrete = T) +
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust=1)) +
+  labs(x = "Sample", 
+       y = "Relative Abundance (%)", 
+       title = "Relative Abundance of MAGs")
+p1
+
+ggsave("sampl_final_TRIMMED_bins_coverage/barplot.jpg", p1, width = 20, height = 15, units = "cm", dpi = "retina")
+```
+
+
+# diversity
+```{r}
+print("Shannon")
+diversity(t(trimmed_relabund[,-1]))
+cat("\n")
+
+print("Simpson")
+diversity(t(trimmed_relabund[,-1]), index = "simpson")
+cat("\n")
+
+print("Chao1")
+estimateR(round(t(trimmed_relabund[,-1])*1000))
+
+
+```
+Control samples much less diverse than biocide-treated samples
+
+# which bins are more abundant in control samples?
+```{r}
+trimmed_relabund_ttested <- trimmed_relabund_names %>% 
+  mutate(T.test.stat = 0, T.test.pvalue = 1)
+
+for (i in 2:nrow(trimmed_relabund)){
+  temp_t <- t.test(as.numeric(trimmed_relabund_names[i, c(2:5, 8)]), as.numeric(trimmed_relabund_names[i, 6:7]))
+  temp_append <- c(temp_t$statistic, temp_t$p.value)
+  trimmed_relabund_ttested[i,17:18] <- temp_append
+}
+
+
+```
+
+# Packed circle plot
+```{r}
+library(packcircles)
+set.seed(42)
+
+avg_biocide <- apply(trimmed_relabund[,c(2:5, 8)], 1, mean) * 10
+avg_control <- apply(trimmed_relabund[,6:7], 1, mean) * 10
+
+limits <- c(-40, 40)
+```
+
+## Biocide
+```{r}
+# biocide
+
+res <- circleRepelLayout(avg_biocide, xlim = limits, ylim = limits)
+cat(res$niter, "iterations performed")
+
+res_lab <- res$layout %>% 
+  mutate(label = trimmed_relabund_names$`Short Name`) %>% 
+  mutate(colours = trimmed_relabund_names$Group)%>% 
+  mutate(radius = radius) %>% 
+  rownames_to_column("id")
+res_lab$id <- as.numeric(res_lab$id)
+res_col <- res_lab[,c(1, 6)]
+
+dat.gg <- circleLayoutVertices(res$layout, sizetype = "radius") %>% 
+  left_join(res_col)
+
+t <- theme_bw() +
+  theme(panel.grid = element_blank(),
+        axis.text=element_blank(),
+        axis.ticks=element_blank(),
+        axis.title=element_blank())
+
+p_biocide <- ggplot() +
+  geom_polygon(data = dat.gg, mapping = aes(x, y, group = id, colour = colours, fill = colours), alpha=0.3) +
+  scale_fill_viridis_d() + scale_colour_viridis_d() +
+  coord_equal() +
+  t +
+  geom_text(data = res_lab, mapping = aes(x, y, label = ifelse(radius > 3, label, ""), size = radius), colour = "black") +
+  scale_radius(range = c(1,4)) +
+  guides(fill = guide_legend("Phylum"), colour = guide_legend("Phylum"), size = "none")
+
+p_biocide
+
+ggsave(plot = p_biocide, filename = "sampl_final_TRIMMED_bins_coverage/circ_biocide.jpg", width = 30, height = 20, units = "cm", dpi = "print")
+
+
+```
+
+## Corrosive
+```{r}
+# biocide
+
+res <- circleRepelLayout(avg_control, xlim = limits, ylim = limits)
+cat(res$niter, "iterations performed")
+
+res_lab <- res$layout %>% 
+  mutate(label = trimmed_relabund_names$`Short Name`) %>% 
+  mutate(colours = trimmed_relabund_names$Group)%>% 
+  mutate(radius = radius) %>% 
+  rownames_to_column("id")
+res_lab$id <- as.numeric(res_lab$id)
+res_col <- res_lab[,c(1, 6)]
+
+dat.gg <- circleLayoutVertices(res$layout, sizetype = "radius") %>% 
+  left_join(res_col)
+
+t <- theme_bw() +
+  theme(panel.grid = element_blank(),
+        axis.text=element_blank(),
+        axis.ticks=element_blank(),
+        axis.title=element_blank())
+
+p_control <- ggplot() +
+  geom_polygon(data = dat.gg, mapping = aes(x, y, group = id, colour = colours, fill = colours), alpha=0.3) +
+  scale_fill_viridis_d() + scale_colour_viridis_d() +
+  coord_equal() +
+  t +
+  geom_text(data = res_lab, mapping = aes(x, y, label = ifelse(radius > 3, label, ""), size = radius), colour = "black") +
+  scale_radius(range = c(1.5,6)) +
+  guides(fill = guide_legend("Phylum"), colour = guide_legend("Phylum"), size = "none")
+
+p_control
+
+ggsave(plot = p_control, filename = "sampl_final_TRIMMED_bins_coverage/circ_control.jpg", width = 30, height = 20, units = "cm", dpi = "print")
+
+
+```
+

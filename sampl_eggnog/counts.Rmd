@@ -1,0 +1,263 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+# Load libraries
+```{r}
+library(tidyverse)
+library(DESeq2)
+# library(limma)
+# library(edgeR)
+library(EnhancedVolcano)
+library(vegan)
+library(viridis)
+
+dir_figs <- "./figures/"
+dir.create(dir_figs)
+```
+
+
+# FIX STUFF
+## Counts & Gene ID
+```{r}
+counts <- list.files(pattern = "-counts$")
+gene_abund <- data.frame()
+
+for(i in counts){
+  temp <- read.delim(i, skip = 1)
+  temp_id <- as.data.frame((strsplit(temp$Geneid, split = "_")))
+  temp_gene_id <- paste0(temp$Chr, "_", temp_id[2,])
+  temp$Geneid <- temp_gene_id
+  gene_abund <- rbind(gene_abund, temp)
+}
+
+colnames(gene_abund)[7:13] <- c("THPS-A-1", "THPS-A-2", "Glut-A-1", "Glut-A-2", "Cont-A-1", "Cont-C-1", "THPS-C-1")
+colnames(gene_abund)
+write.csv(gene_abund, "gene_abund.csv")
+```
+
+## clusters
+https://rpubs.com/rmurdoch/cdhit_to_mapping_file
+```{r}
+gene_clusters2 <- gene_clusters <- read.delim("FINAL_clustered_proteins.txt.clstr", sep = "\t", row.names = NULL, header = F, stringsAsFactors = F)
+
+numbers_only <- function(x) !grepl("\\D", x)
+
+for (row in c(1:nrow(gene_clusters2))) {
+  if (numbers_only(gene_clusters2[row,1]) == TRUE) {
+    gene_clusters2[row,1] <- x}
+  else {NULL}
+  x <- gene_clusters2[row,1]
+}
+
+gene_clusters4 <- gene_clusters2[-which(gene_clusters2$V2 == ""), ]
+
+library(stringr)
+gene_clusters5 <- gene_clusters4
+gene_clusters5[] <- lapply(gene_clusters5, gsub, pattern='>', replacement='')
+gene_clusters5.2 <- data.frame(str_split_fixed(gene_clusters5$V2, "aa, ", 2))
+gene_clusters5.3 <- data.frame(str_split_fixed(gene_clusters5.2$X2, "... ", 2))
+gene_clusters6 <- cbind(gene_clusters5[1],gene_clusters5.2[1],gene_clusters5.3[1:2])
+colnames(gene_clusters6) <- c("cluster","aa","gene","stat")
+rownames(gene_clusters6) <-  NULL
+head(gene_clusters6, n=20)
+```
+
+
+## Annotations
+```{r}
+annot <- read.delim("FINAL_eggnog.emapper.annotations", skip = 3)
+
+annot_simple <- annot %>% 
+  select(X.query_name, seed_ortholog_evalue, seed_ortholog_score, best_tax_level, Preferred_name, COG.Functional.cat.,eggNOG.free.text.desc.)
+colnames(annot_simple)
+colnames(annot)
+```
+
+## See what gene is what
+```{r}
+# left join annotation & clusters
+gene_abund_annot_clust <- gene_abund %>% 
+  left_join(annot_simple, by = c("Geneid"="X.query_name")) %>% 
+  left_join(gene_clusters6, by = c("Geneid"="gene"))
+
+# get preferred names
+index <- is.na(gene_abund_annot_clust$Preferred_name)
+gene_abund_annot_clust$Preferred_name[index] <- gene_abund_annot_clust$Geneid[index]
+index <- which(gene_abund_annot_clust$Preferred_name == "")
+gene_abund_annot_clust$Preferred_name[index] <- gene_abund_annot_clust$Geneid[index]
+
+
+gene_summarised_clust <- gene_abund_annot_clust %>% 
+  group_by(cluster) %>% 
+  summarise(Preferred_name = names(sort(table(Preferred_name),decreasing=TRUE))[1], 
+            `THPS-A-1` = sum(`THPS-A-1`),
+            `THPS-A-2` = sum(`THPS-A-2`),
+            `Glut-A-1` = sum(`Glut-A-1`),
+            `Glut-A-2` = sum(`Glut-A-1`),
+            `Cont-A-1` = sum(`Cont-A-1`),
+            `Cont-C-1` = sum(`Cont-C-1`),
+            `THPS-C-1` = sum(`THPS-C-1`),
+  ) 
+```
+
+
+# DESeq2
+- use non-normalized counts
+- Count matrix -> Row: gene, column: sample
+- Sample info -> row: sample, column: data
+- Sample must be in the same order
+```{r}
+# Get metadata
+metadata <- readxl::read_excel("../metadata.xlsx")
+metadata <- metadata %>% 
+  column_to_rownames("Sample")
+
+index_keep <- rowSums(gene_summarised_clust[,3:9]) >= 100
+gene_summarised_clust_filt <- gene_summarised_clust[index_keep, ]
+
+# Pre-filtering abundance table
+gene_abund_filt <- gene_summarised_clust_filt %>% 
+  column_to_rownames("cluster") %>% 
+  select(contains("-"))
+
+gene_names <- gene_summarised_clust_filt$Preferred_name 
+
+
+# Make DESeq Dataset
+dds <- DESeqDataSetFromMatrix(countData = gene_abund_filt,
+                              colData = metadata,
+                              design = ~ Treatment)
+
+# Make Reference (control) level
+dds$Treatment <- relevel(dds$Treatment, ref = "Control")
+
+# Combine technical replicates
+dds_collapsed <- collapseReplicates(dds, dds$Replicates)
+```
+
+## Run DESeq
+```{r}
+#run deseq
+set.seed(42)
+dds_collapsed <- DESeq(dds_collapsed)
+res_collapsed <- results(dds_collapsed)
+res_collapsed
+
+res_named <- res_collapsed
+rownames(res_named) <- gene_names
+```
+
+### Plot
+```{r}
+# volcano plot
+p1 <- EnhancedVolcano(res_named,
+                      lab = rownames(res_named),
+                      x = 'log2FoldChange',
+                      y = 'padj')
+ggsave(path = dir_figs, filename = "DE_deseq_volcano_clustered.jpg", plot = p1, width = 15, height = 15, units = "cm", dpi = "retina")
+
+p1
+```
+
+### Results table
+```{r}
+res_tidy <- results(dds_collapsed, tidy = T)
+res_tidy_genes <- res_tidy %>% 
+  left_join(genes, by = c("row"="GeneID")) 
+
+res_tidy_cut <- res_tidy_genes %>% 
+  filter(padj < 10e-5) %>% 
+  arrange(desc(abs(log2FoldChange)))
+write_csv(res_tidy_cut, "res_tidy_cut.csv")
+```
+
+### Are these genes picked up by FeGenie?
+```{r}
+fegenie_res <- read.csv("FeGenie/FeGenie-summary-fixed.csv")
+fegenie_res <- fegenie_res %>% 
+  filter(category != "#") %>% 
+  select(-contains("X")) %>% 
+  filter(genome.assembly != "FINAL_proteins.faa")
+
+fegenie_res_tidy <- fegenie_res %>% 
+  dplyr::select(orf, genome.assembly, category, HMM)
+res_tidy_cut_fegenie <- res_tidy_cut %>% 
+  dplyr::left_join(fegenie_res_tidy, c("row"="orf"))
+
+res_tidy_genes_fegenie <- res_tidy_genes %>% 
+  dplyr::left_join(fegenie_res_tidy, c("row"="orf"))
+
+write.csv(res_tidy_genes_fegenie, "res_tidy_genes_fegenie.csv")
+write.csv(res_tidy_cut_fegenie, "res_tidy_cut_fegenie.csv")
+```
+
+
+
+
+
+# Get metabat002 genes
+```{r}
+orfs_metabat002 <- read.delim("metabat_002_headers.txt", sep = " ", header = F)
+orfs_metabat002 <- orfs_metabat002$V1
+orfs_metabat002 <- sub('^.', '', orfs_metabat002)
+
+res_met002_fegenie <- res_tidy_genes_fegenie %>% 
+  dplyr::filter(row %in% orfs_metabat002)
+
+write.csv(res_met002_fegenie, "res_met002_fegenie.csv")
+
+res_met002_onlyiron <- res_met002_fegenie %>% 
+  filter(genome.assembly == "metabat_002.faa")
+```
+pick out those contigs where the iron genes are
+- what are other genes on those contigs
+- are they circular
+might be gene islands, might be plasmid
+are they desulfocapsa genes? codon usage? HGT?
+compare corrosive desulfocapsa & non-corrosive desulfocapsa
+
+
+
+
+
+
+
+# NMDS on genes?
+```{r}
+set.seed(42)
+abund_nmds <- metaMDS(t(gene_abund_filt), try = 99, trymax = 99, k = 3, distance = "bray")
+
+abund_scores <- as.data.frame(scores(abund_nmds, display = "sites"))  #Using the scores function from vegan to extract the site scores and convert to a data.frame
+abund_scores$site <- rownames(abund_scores)
+abund_scores <- abund_scores %>% 
+  cbind(metadata)
+
+ggplot(abund_scores) +
+  geom_point(aes(x = NMDS1, y = NMDS2, color = Biocide, shape = Innoculum), size = 3)
+```
+
+# PCA on genes
+```{r}
+library(factoextra)
+set.seed(42)
+pca_prcomp <- prcomp(t(gene_abund_filt), center = T)
+pca_prcomp_weights <- pca_prcomp$rotation # weights!
+fviz_eig(pca_prcomp)
+get_eig(pca_prcomp)
+
+# Results for Variables
+res.var <- get_pca_var(pca_prcomp)
+contrib <- res.var$contrib
+# res.var$coord          # Coordinates
+res.var$contrib        # Contributions to the PCs
+# res.var$cos2           # Quality of representation 
+
+
+pca_prcomp_sites <- pca_prcomp$x %>% 
+  cbind(metadata)
+p3 <- ggplot(pca_prcomp_sites) +
+  geom_point(aes(x = PC1, y = PC2, color = Biocide, shape = Innoculum), size = 3)
+p3
+```
+
