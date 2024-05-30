@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536349.1:0.355956,(Desulfocapsa_13_biocide_Utg859076_10:0.612102,(Desulfotalea_psychrophila_LSv54_WP_011189774.1:0.940989,Desulfocapsa_sulfexigens_DSM_10523_WP_015403569.1:0.819835)n2:0.239121)n1:0.355956)n0;

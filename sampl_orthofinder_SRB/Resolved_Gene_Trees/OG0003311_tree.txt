@@ -1,0 +1,1 @@
+((Geobacter_sulfurreducens_PCA_WP_235044898.1:0.751611,Desulfovibrio_ferrophilus_IS5_WP_126376155.1:0.584867)n1:0.22884,(Desulfovibrio_ferrophilus_IS5_WP_126376152.1:0.547263,Geobacter_sulfurreducens_PCA_WP_010941330.1:0.411871)n2:0.22884)n0;

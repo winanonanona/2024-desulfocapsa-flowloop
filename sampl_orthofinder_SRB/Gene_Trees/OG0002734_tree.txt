@@ -1,0 +1,1 @@
+(Desulforhopalus_vacuolatus_DSM_9700_WP_205217987.1:0.593072,(Shewanella_oneidensis_MR-1_WP_011071268.1:1.4509,((Shewanella_oneidensis_MR-1_WP_011071269.1:0.438355,Shewanella_oneidensis_MR-1_WP_011074435.1:0.17598):0.95755,Shewanella_oneidensis_MR-1_WP_011071628.1:0.903218):0.112312):0.593072);

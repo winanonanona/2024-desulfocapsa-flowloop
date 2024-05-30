@@ -1,0 +1,1 @@
+((Desulfovibrio_vulgaris_DP4_WP_190275052.1:0.694711,Desulfovibrio_ferrophilus_IS5_WP_126378578.1:0.512691)n1:0.101682,(Desulfotalea_psychrophila_LSv54_WP_011188824.1:0.430027,(Desulfocapsa_06_corrosive_Utg325220_36:0.808118,Desulfocapsa_06_corrosive_Utg323316_26:0.487154)n3:0.0541282)n2:1.04226)n0;

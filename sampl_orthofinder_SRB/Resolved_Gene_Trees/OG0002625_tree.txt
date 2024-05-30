@@ -1,0 +1,1 @@
+((Desulfovibrio_vulgaris_DP4_WP_011791816.1:0.718443,(Shewanella_oneidensis_MR-1_WP_011071953.1:0.961769,(Shewanella_oneidensis_MR-1_WP_011072034.1:0.646744,Shewanella_oneidensis_MR-1_WP_164925883.1:0.757386)n3:0.189155)n2:0.0210172)n1:0.111376,Desulfocapsa_sulfexigens_DSM_10523_WP_041916352.1:1.0099)n0;

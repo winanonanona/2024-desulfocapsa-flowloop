@@ -1,0 +1,1 @@
+(Desulforhopalus_vacuolatus_DSM_9700_WP_205219606.1:1.01901,(Desulfocapsa_sulfexigens_DSM_10523_WP_167320760.1:0.133308,(Desulfocapsa_06_corrosive_Utg323152_285:0.0616155,Desulfocapsa_13_biocide_Utg859098_131:0.0748605):0.170411):1.01901);

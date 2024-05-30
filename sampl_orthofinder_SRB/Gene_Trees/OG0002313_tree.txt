@@ -1,0 +1,1 @@
+(Desulfovibrio_ferrophilus_IS5_WP_172961710.1:0.777718,((((Desulfocapsa_13_biocide_Utg859982_86:0.109368,Desulfocapsa_06_corrosive_Utg323152_473:0.187254):0.370801,Desulfocapsa_06_corrosive_Utg323160_107:1.59102):0.337465,Desulfotalea_psychrophila_LSv54_WP_011189367.1:0.608081):0.303921,Desulfotalea_psychrophila_LSv54_WP_011190192.1:0.883889):0.777718);

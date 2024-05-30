@@ -1,0 +1,1 @@
+((Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536326.1:0.958581,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012537131.1:0.759232):0.0721927,(Geobacter_sulfurreducens_PCA_WP_010941215.1:0.735485,(Desulfovibrio_ferrophilus_IS5_WP_126377338.1:0.410308,Desulfovibrio_vulgaris_DP4_WP_011792218.1:0.279769):0.470193):0.0721927);

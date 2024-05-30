@@ -1,0 +1,22 @@
+2023-06-16 20:48:49 : Started OrthoFinder version 2.5.5
+Command Line: /home/winona/miniconda3/envs/orthofinder/bin/orthofinder -t 32 -a 8 -o 09_MAGcompare/orthofinder_SRB/results -n default -f 09_MAGcompare/orthofinder_SRB/to_compare/
+
+WorkingDirectory_Base: 09_MAGcompare/orthofinder_SRB/results/Results_default/WorkingDirectory/
+
+Species used: 
+0: Acidithiobacillus ferrooxidans YNTRS-40.faa
+1: Desulfocapsa sulfexigens DSM 10523.faa
+2: Desulfocapsa_06_corrosive.faa
+3: Desulfocapsa_13_biocide.faa
+4: Desulforhopalus vacuolatus DSM 9700.faa
+5: Desulfosediminicola flagellatus IMCC35005.faa
+6: Desulfosediminicola ganghwensis IMCC35004.faa
+7: Desulfotalea psychrophila LSv54.faa
+8: Desulfovibrio ferrophilus IS5.faa
+9: Desulfovibrio vulgaris DP4.faa
+10: Geobacter sulfurreducens PCA.faa
+11: Shewanella oneidensis MR-1.faa
+
+FN_Orthogroups: 09_MAGcompare/orthofinder_SRB/results/Results_default/WorkingDirectory/clusters_OrthoFinder_I1.5.txt_id_pairs.txt
+WorkingDirectory_Trees: 09_MAGcompare/orthofinder_SRB/results/Results_default/WorkingDirectory/
+2023-06-16 20:50:23 : OrthoFinder run completed

@@ -1,0 +1,1 @@
+((Desulfocapsa_sulfexigens_DSM_10523_WP_015402980.1:0.136739,(Desulfocapsa_13_biocide_Utg864866_76:0.0725807,Desulfocapsa_06_corrosive_Utg323140_77:0.0494643)n2:0.158046)n1:0.539669,(Shewanella_oneidensis_MR-1_WP_011073863.1:1.24889,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012537615.1:0.600016)n3:0.539669)n0;

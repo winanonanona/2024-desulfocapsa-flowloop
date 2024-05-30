@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011072967.1:0.895518,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009564641.1:1.71771,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012537268.1:1.04351,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009561999.1:0.848119):0.412176):0.895518);

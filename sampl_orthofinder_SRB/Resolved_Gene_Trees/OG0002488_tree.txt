@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_041838730.1:0.390391,(Desulfovibrio_ferrophilus_IS5_WP_126380274.1:0.868074,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136798616.1:0.402636,(Desulfocapsa_13_biocide_Utg857994_197:0.0853181,Desulfocapsa_06_corrosive_Utg323074_182:0.0847329)n3:0.253508)n2:1.28368)n1:0.390391)n0;

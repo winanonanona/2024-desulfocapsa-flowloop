@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536489.1:0.287112,(Geobacter_sulfurreducens_PCA_WP_010943103.1:0.269496,(Desulfocapsa_sulfexigens_DSM_10523_WP_015405267.1:1.3057,(Desulfosediminicola_flagellatus_IMCC35005_WP_136805770.1:0.108918,Desulfosediminicola_ganghwensis_IMCC35004_WP_136798165.1:0.441828)n3:0.777524)n2:0.593484)n1:0.287112)n0;

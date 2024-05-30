@@ -1,0 +1,1 @@
+((Desulforhopalus_vacuolatus_DSM_9700_WP_275888981.1:0.465249,Desulfotalea_psychrophila_LSv54_WP_041277522.1:0.333011):0.119724,(Desulfovibrio_ferrophilus_IS5_WP_172961714.1:0.443848,Desulfovibrio_vulgaris_DP4_WP_010937615.1:0.361234):0.119724);

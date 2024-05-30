@@ -1,0 +1,1 @@
+(Geobacter_sulfurreducens_PCA_WP_235044930.1:0.164338,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136796542.1:0.672431,(Desulfosediminicola_flagellatus_IMCC35005_WP_217909582.1:0.269422,(Desulfosediminicola_flagellatus_IMCC35005_WP_176371619.1:0.484973,Desulfosediminicola_flagellatus_IMCC35005_WP_136806976.1:0.46948)n3:0.180274)n2:0.0200304)n1:0.545146)n0;

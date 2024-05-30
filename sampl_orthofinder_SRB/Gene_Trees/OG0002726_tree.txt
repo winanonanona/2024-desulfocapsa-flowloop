@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011074144.1:0.868341,(((Desulfocapsa_13_biocide_Utg864866_28:0.476652,Geobacter_sulfurreducens_PCA_WP_010943314.1:0.267394):0.0902262,Desulfotalea_psychrophila_LSv54_WP_011189437.1:0.462317):0.27217,Geobacter_sulfurreducens_PCA_WP_010941237.1:0.923853):0.868341);

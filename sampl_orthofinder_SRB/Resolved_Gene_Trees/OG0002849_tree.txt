@@ -1,0 +1,1 @@
+(Desulfosediminicola_flagellatus_IMCC35005_WP_136806460.1:0.79866,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536562.1:0.178207,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536892.1:0.786201,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012606505.1:0.486382)n2:0.288598)n1:0.79866)n0;

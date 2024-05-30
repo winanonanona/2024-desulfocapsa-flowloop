@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009562631.1:0.237016,(Desulforhopalus_vacuolatus_DSM_9700_WP_205219484.1:0.0734692,(Desulfocapsa_sulfexigens_DSM_10523_WP_015402396.1:0.0732383,Desulfosediminicola_flagellatus_IMCC35005_WP_136809653.1:0.0817548)n2:0.0117503)n1:0.237016)n0;

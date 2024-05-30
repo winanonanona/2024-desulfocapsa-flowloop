@@ -1,0 +1,1 @@
+((Desulfosediminicola_ganghwensis_IMCC35004_WP_136799963.1:0.60388,Desulforhopalus_vacuolatus_DSM_9700_WP_205219794.1:0.692676)n1:0.453156,(Shewanella_oneidensis_MR-1_WP_011072579.1:0.569594,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012537029.1:0.580956)n2:0.453156)n0;

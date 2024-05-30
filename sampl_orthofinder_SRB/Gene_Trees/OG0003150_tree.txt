@@ -1,0 +1,1 @@
+((Desulfocapsa_13_biocide_Utg859750_92:1.07093,Desulfosediminicola_ganghwensis_IMCC35004_WP_136796440.1:1.49203):0.233171,(Shewanella_oneidensis_MR-1_WP_011071320.1:0.26607,Shewanella_oneidensis_MR-1_WP_011071959.1:1.33536):0.233171);

@@ -1,0 +1,1 @@
+(Desulfotalea_psychrophila_LSv54_WP_162096619.1:0.422296,(Desulfosediminicola_ganghwensis_IMCC35004_WP_153305539.1:0.751189,(Desulfosediminicola_flagellatus_IMCC35005_WP_153307108.1:0.654394,(Desulfocapsa_06_corrosive_Utg323180_249:0.303186,Desulfocapsa_13_biocide_Utg863716_70:0.14148):0.386785):0.106948):0.422296);

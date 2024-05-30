@@ -1,0 +1,1 @@
+(((Shewanella_oneidensis_MR-1_WP_011072978.1:0.888655,Shewanella_oneidensis_MR-1_WP_011072460.1:0.77411):0.0915942,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536115.1:0.750856):0.0681025,(Geobacter_sulfurreducens_PCA_WP_010941679.1:1.00407,(Desulfovibrio_ferrophilus_IS5_WP_126375838.1:0.582579,Desulfovibrio_vulgaris_DP4_WP_081428847.1:0.621138):0.487523):0.0681025);

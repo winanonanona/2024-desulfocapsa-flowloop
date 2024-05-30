@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_226834201.1:0.40034,(Desulfovibrio_ferrophilus_IS5_WP_126381641.1:1.44264,(Desulforhopalus_vacuolatus_DSM_9700_WP_205220371.1:0.130746,Desulforhopalus_vacuolatus_DSM_9700_WP_205218247.1:0.0544098)n2:0.426652)n1:0.40034)n0;

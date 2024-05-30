@@ -1,0 +1,1 @@
+(Desulfosediminicola_flagellatus_IMCC35005_WP_167506045.1:0.497851,((Desulfotalea_psychrophila_LSv54_WP_198408689.1:1.41027,Desulfotalea_psychrophila_LSv54_WP_011189581.1:1.18773)n2:0.0734235,Desulfotalea_psychrophila_LSv54_WP_011187419.1:1.04471)n1:0.497851)n0;

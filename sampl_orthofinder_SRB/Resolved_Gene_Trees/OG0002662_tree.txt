@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011070535.1:0.897105,(Geobacter_sulfurreducens_PCA_WP_164930458.1:2.06803,(Desulfocapsa_06_corrosive_Utg323180_59:0.280466,(Desulfocapsa_13_biocide_Utg857152_156:0.123763,Desulfocapsa_13_biocide_Utg857152_157:0.0892767)n3:0.00991964)n2:0.0630959)n1:0.897105)n0;

@@ -1,0 +1,1 @@
+(Desulforhopalus_vacuolatus_DSM_9700_WP_205220392.1:0.148966,((Desulfosediminicola_flagellatus_IMCC35005_WP_136806237.1:0.290384,(Desulfosediminicola_flagellatus_IMCC35005_WP_136810458.1:1.37274,Desulfocapsa_13_biocide_Utg863716_122:1.0329):0.33682):0.661509,Desulfosediminicola_ganghwensis_IMCC35004_WP_267314027.1:0.371371):0.148966);

@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011074266.1:0.380077,(Desulfosediminicola_flagellatus_IMCC35005_WP_136808962.1:0.508034,(Geobacter_sulfurreducens_PCA_WP_010943685.1:1.58613,Geobacter_sulfurreducens_PCA_WP_010940880.1:0.297995)n2:0.0331106)n1:0.217428)n0;

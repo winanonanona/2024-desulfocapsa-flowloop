@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011072403.1:0.371633,(Shewanella_oneidensis_MR-1_WP_011071943.1:0.68546,((Shewanella_oneidensis_MR-1_WP_238560571.1:1.03453,(Shewanella_oneidensis_MR-1_WP_011072815.1:0.817582,Shewanella_oneidensis_MR-1_WP_011072436.1:0.63036):0.246744):0.140302,Shewanella_oneidensis_MR-1_WP_011071521.1:1.12555):0.155873):0.371633);

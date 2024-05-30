@@ -1,0 +1,1 @@
+((Desulfocapsa_13_biocide_Utg859098_56:0.00145325,Desulfocapsa_13_biocide_Utg857682_129:0.00150075):0.311411,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_054609030.1:0.0315072,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_054608973.1:0.0558868):0.311411);

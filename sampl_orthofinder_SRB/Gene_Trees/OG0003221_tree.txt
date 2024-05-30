@@ -1,0 +1,1 @@
+((Desulfosediminicola_ganghwensis_IMCC35004_WP_136799765.1:2.61491e-06,Desulfosediminicola_flagellatus_IMCC35005_WP_136805320.1:0.692824):0.0930566,(Shewanella_oneidensis_MR-1_WP_164925653.1:1.07449,Shewanella_oneidensis_MR-1_WP_011073053.1:0.96664):0.0930566);

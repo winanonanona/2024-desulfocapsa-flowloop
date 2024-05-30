@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_031572895.1:0.654732,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_054608717.1:1.02947,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_180830439.1:1.43378,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_074874124.1:1.26425)n2:0.104584)n1:0.654732)n0;

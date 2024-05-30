@@ -1,0 +1,1 @@
+((Desulfosediminicola_ganghwensis_IMCC35004_WP_136797252.1:0.76206,(Desulfosediminicola_flagellatus_IMCC35005_WP_136810324.1:0.215747,Desulfosediminicola_flagellatus_IMCC35005_WP_136807310.1:0.190603)n2:0.129302)n1:0.0568433,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136799307.1:0.0772286,Desulfosediminicola_flagellatus_IMCC35005_WP_136808741.1:0.0865354)n3:0.0568433)n0;

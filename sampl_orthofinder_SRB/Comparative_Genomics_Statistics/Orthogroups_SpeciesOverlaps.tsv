@@ -1,0 +1,13 @@
+	Acidithiobacillus ferrooxidans YNTRS-40	Desulfocapsa sulfexigens DSM 10523	Desulfocapsa_06_corrosive	Desulfocapsa_13_biocide	Desulforhopalus vacuolatus DSM 9700	Desulfosediminicola flagellatus IMCC35005	Desulfosediminicola ganghwensis IMCC35004	Desulfotalea psychrophila LSv54	Desulfovibrio ferrophilus IS5	Desulfovibrio vulgaris DP4	Geobacter sulfurreducens PCA	Shewanella oneidensis MR-1
+Acidithiobacillus ferrooxidans YNTRS-40	1661	978	993	903	929	1087	1056	878	915	920	1032	1119
+Desulfocapsa sulfexigens DSM 10523	978	2573	2207	1937	1496	2074	1885	1538	1350	1258	1352	1150
+Desulfocapsa_06_corrosive	993	2207	2996	2353	1521	2234	2021	1638	1452	1329	1423	1242
+Desulfocapsa_13_biocide	903	1937	2353	2638	1393	2035	1860	1473	1325	1206	1295	1111
+Desulforhopalus vacuolatus DSM 9700	929	1496	1521	1393	2084	1733	1672	1430	1171	1148	1143	1063
+Desulfosediminicola flagellatus IMCC35005	1087	2074	2234	2035	1733	3494	2895	1854	1569	1428	1525	1424
+Desulfosediminicola ganghwensis IMCC35004	1056	1885	2021	1860	1672	2895	3192	1785	1490	1386	1417	1336
+Desulfotalea psychrophila LSv54	878	1538	1638	1473	1430	1854	1785	2180	1214	1190	1174	1138
+Desulfovibrio ferrophilus IS5	915	1350	1452	1325	1171	1569	1490	1214	2180	1735	1242	1091
+Desulfovibrio vulgaris DP4	920	1258	1329	1206	1148	1428	1386	1190	1735	2079	1214	1085
+Geobacter sulfurreducens PCA	1032	1352	1423	1295	1143	1525	1417	1174	1242	1214	2032	1150
+Shewanella oneidensis MR-1	1119	1150	1242	1111	1063	1424	1336	1138	1091	1085	1150	2037

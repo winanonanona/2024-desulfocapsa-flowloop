@@ -1,0 +1,1 @@
+(Desulfosediminicola_ganghwensis_IMCC35004_WP_136798424.1:0.408237,((Desulfovibrio_vulgaris_DP4_WP_010937570.1:0.333967,Desulfovibrio_ferrophilus_IS5_WP_126381169.1:0.341728)n2:0.161152,(Desulfovibrio_ferrophilus_IS5_WP_126380004.1:0.680395,Desulfovibrio_vulgaris_DP4_WP_010937432.1:0.701502)n3:0.0779447)n1:0.408237)n0;

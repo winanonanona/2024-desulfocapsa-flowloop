@@ -1,0 +1,1 @@
+((Desulfovibrio_vulgaris_DP4_WP_011792818.1:0.342148,Desulfosediminicola_flagellatus_IMCC35005_WP_136807329.1:0.236629):0.0388066,(Desulfovibrio_vulgaris_DP4_WP_011792925.1:0.123789,Desulfosediminicola_ganghwensis_IMCC35004_WP_136795511.1:0.133444):0.0388066);

@@ -1,0 +1,1 @@
+(Desulfovibrio_vulgaris_DP4_WP_010939134.1:0.380057,(Desulfotalea_psychrophila_LSv54_WP_156792174.1:0.427885,(Desulfocapsa_sulfexigens_DSM_10523_WP_015403863.1:0.0860292,(Desulfocapsa_06_corrosive_Utg323300_292:0.0158756,Desulfocapsa_13_biocide_Utg857152_19:0.0409654):0.0465343):0.544035):0.380057);

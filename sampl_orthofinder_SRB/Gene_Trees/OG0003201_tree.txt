@@ -1,0 +1,1 @@
+(Geobacter_sulfurreducens_PCA_WP_010941839.1:0.61262,((Desulforhopalus_vacuolatus_DSM_9700_WP_205219691.1:0.803682,Desulforhopalus_vacuolatus_DSM_9700_WP_205219531.1:0.882682):0.338602,Desulforhopalus_vacuolatus_DSM_9700_WP_275889020.1:2.83553e-06):0.61262);

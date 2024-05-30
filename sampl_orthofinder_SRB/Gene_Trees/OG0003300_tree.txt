@@ -1,0 +1,1 @@
+(Desulfotalea_psychrophila_LSv54_WP_049785076.1:0.122682,(Desulfosediminicola_ganghwensis_IMCC35004_WP_217907583.1:0.624148,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136799680.1:1.08956,Desulfosediminicola_ganghwensis_IMCC35004_WP_136799681.1:1.63893):0.436504):0.122682);

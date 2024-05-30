@@ -1,0 +1,1 @@
+(Desulfosediminicola_flagellatus_IMCC35005_WP_136805742.1:0.471515,(Shewanella_oneidensis_MR-1_WP_011072281.1:0.106933,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536591.1:0.663603,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009566453.1:0.283526)n2:0.0315029)n1:0.552273)n0;

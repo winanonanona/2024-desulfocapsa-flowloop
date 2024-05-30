@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011073428.1:0.472338,(Desulfosediminicola_flagellatus_IMCC35005_WP_136809022.1:0.752904,(Desulfosediminicola_flagellatus_IMCC35005_WP_136809023.1:0.671697,Desulforhopalus_vacuolatus_DSM_9700_WP_205217394.1:1.20467):0.112943):0.472338);

@@ -1,0 +1,1 @@
+(Desulforhopalus_vacuolatus_DSM_9700_WP_205219156.1:0.0208814,(Desulforhopalus_vacuolatus_DSM_9700_WP_205220301.1:2.83476e-06,(Desulforhopalus_vacuolatus_DSM_9700_WP_205220013.1:0.862028,Desulforhopalus_vacuolatus_DSM_9700_WP_205220012.1:0.898335):1.03815):0.0208814);

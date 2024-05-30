@@ -1,0 +1,1 @@
+(Desulfocapsa_sulfexigens_DSM_10523_WP_015403086.1:0.10107,(Desulfocapsa_13_biocide_Utg857682_84:0.098197,(Desulfocapsa_06_corrosive_Utg323300_44:1.58085,Desulfocapsa_06_corrosive_Utg325220_108:0.0919539)n2:0.0102171)n1:0.090203)n0;

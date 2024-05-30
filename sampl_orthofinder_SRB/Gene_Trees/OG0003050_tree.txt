@@ -1,0 +1,1 @@
+(Desulfocapsa_06_corrosive_Utg323448_11:0,(Desulfocapsa_06_corrosive_Utg323316_7:0,(Desulfocapsa_06_corrosive_Utg325220_53:-0,Desulfocapsa_06_corrosive_Utg323152_6:1.37231):0):0);

@@ -1,0 +1,1 @@
+(((Desulfosediminicola_flagellatus_IMCC35005_WP_136805662.1:0.072553,Desulfosediminicola_ganghwensis_IMCC35004_WP_136799095.1:0.074111):0.439554,Desulfosediminicola_flagellatus_IMCC35005_WP_136809222.1:0.528234):0.205045,(Desulfotalea_psychrophila_LSv54_WP_011190284.1:0.0176514,Desulfotalea_psychrophila_LSv54_WP_011190273.1:0.0243786):0.205045);

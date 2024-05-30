@@ -1,0 +1,1 @@
+(Desulfovibrio_ferrophilus_IS5_WP_126381586.1:1.32495,((Acidithiobacillus_ferrooxidans_YNTRS-40_WP_054609056.1:0.415678,Desulfocapsa_06_corrosive_Utg323300_62:0.580272)n2:0.321338,(Desulfocapsa_06_corrosive_Utg325220_17:1.28405,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_157293195.1:1.06983)n3:0.124143)n1:0.0137937)n0;

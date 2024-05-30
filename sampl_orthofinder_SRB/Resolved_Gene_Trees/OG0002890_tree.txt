@@ -1,0 +1,1 @@
+((Geobacter_sulfurreducens_PCA_WP_235044995.1:2.06293,Desulfocapsa_06_corrosive_Utg323316_269:0.573786)n1:0.362908,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_070807698.1:0.00682421,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_070807694.1:0.0184698)n2:0.362908)n0;

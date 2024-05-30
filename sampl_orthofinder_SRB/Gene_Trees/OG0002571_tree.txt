@@ -1,0 +1,1 @@
+(Geobacter_sulfurreducens_PCA_WP_010942148.1:0.161778,(Desulfocapsa_sulfexigens_DSM_10523_WP_015404497.1:0.446828,(Desulforhopalus_vacuolatus_DSM_9700_WP_205217351.1:1.18587,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136797530.1:0.168137,Desulfosediminicola_flagellatus_IMCC35005_WP_136806454.1:0.146107):1.02267):0.502447):0.161778);

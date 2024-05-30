@@ -1,0 +1,1 @@
+(Geobacter_sulfurreducens_PCA_WP_010941739.1:0.594347,((Acidithiobacillus_ferrooxidans_YNTRS-40_WP_233459599.1:0.00378375,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536829.1:0.0243293)n2:0.647605,Shewanella_oneidensis_MR-1_WP_011072789.1:0.837273)n1:0.594347)n0;

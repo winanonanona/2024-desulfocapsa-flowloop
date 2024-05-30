@@ -1,0 +1,1 @@
+(Desulfotalea_psychrophila_LSv54_WP_011189232.1:0.804966,(Shewanella_oneidensis_MR-1_WP_011072480.1:0.718178,((Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536643.1:0.221759,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_226834055.1:0.716889):0.638334,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_054608680.1:1.23628):0.106497):0.804966);

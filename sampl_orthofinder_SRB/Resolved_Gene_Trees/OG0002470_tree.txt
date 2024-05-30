@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536969.1:0.537428,(Desulfocapsa_13_biocide_Utg859098_434:0.840324,(Desulfosediminicola_flagellatus_IMCC35005_WP_136809640.1:1.0457,(Desulfosediminicola_flagellatus_IMCC35005_WP_136809641.1:0.660165,Desulfosediminicola_flagellatus_IMCC35005_WP_167506026.1:0.811593)n3:0.0811593)n2:0.0090177)n1:0.0659431)n0;

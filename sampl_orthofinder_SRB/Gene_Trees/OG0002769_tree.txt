@@ -1,0 +1,1 @@
+((Desulfotalea_psychrophila_LSv54_WP_011190298.1:0.525941,(Desulfosediminicola_flagellatus_IMCC35005_WP_136805776.1:0.298934,Desulfosediminicola_ganghwensis_IMCC35004_WP_136798162.1:0.325381):0.338105):0.175789,(Shewanella_oneidensis_MR-1_WP_011073496.1:0.80004,Shewanella_oneidensis_MR-1_WP_011072339.1:0.827826):0.175789);

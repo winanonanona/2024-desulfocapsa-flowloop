@@ -1,0 +1,1 @@
+(Geobacter_sulfurreducens_PCA_WP_010941642.1:0.368133,((Desulfocapsa_06_corrosive_Utg323262_29:0.665162,Desulfocapsa_06_corrosive_Utg323262_28:0.560929)n2:0.068842,Desulfovibrio_ferrophilus_IS5_WP_126378547.1:1.83838)n1:0.368133)n0;

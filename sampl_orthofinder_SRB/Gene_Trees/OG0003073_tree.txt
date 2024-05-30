@@ -1,0 +1,1 @@
+(Desulfocapsa_06_corrosive_Utg323180_329:0.403739,(Desulfotalea_psychrophila_LSv54_WP_011189695.1:0.835685,(Desulfotalea_psychrophila_LSv54_WP_265588562.1:0.601124,Desulfotalea_psychrophila_LSv54_WP_228130146.1:0.840795):0.369599):0.403739);

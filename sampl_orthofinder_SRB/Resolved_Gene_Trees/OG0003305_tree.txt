@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011074045.1:0.562486,((Desulfovibrio_vulgaris_DP4_WP_010939818.1:0.35906,Desulfotalea_psychrophila_LSv54_WP_011189216.1:0.588643)n2:0.0221653,Desulfovibrio_ferrophilus_IS5_WP_126376410.1:0.373749)n1:0.562486)n0;

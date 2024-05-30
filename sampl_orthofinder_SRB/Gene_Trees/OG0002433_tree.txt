@@ -1,0 +1,1 @@
+((Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009561011.1:0.84092,Geobacter_sulfurreducens_PCA_WP_010941828.1:0.730283):0.00286138,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536106.1:0.848018,(Geobacter_sulfurreducens_PCA_WP_010943099.1:0.736172,Geobacter_sulfurreducens_PCA_WP_010943601.1:0.400413):0.0848147):0.00286138);

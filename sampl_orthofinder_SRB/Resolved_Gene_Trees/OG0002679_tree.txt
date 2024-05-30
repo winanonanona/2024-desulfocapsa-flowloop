@@ -1,0 +1,1 @@
+((Desulfovibrio_ferrophilus_IS5_WP_126375611.1:0.586326,Desulfocapsa_06_corrosive_Utg323266_118:0.206205)n1:0.415101,((Desulfovibrio_ferrophilus_IS5_WP_126375610.1:0.136243,Desulfocapsa_13_biocide_Utg857682_73:0.0772507)n3:1.32673,Desulfocapsa_06_corrosive_Utg325220_119:2.42848e-06)n2:0.415101)n0;

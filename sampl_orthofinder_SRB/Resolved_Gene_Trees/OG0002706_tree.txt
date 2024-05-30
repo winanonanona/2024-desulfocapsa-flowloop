@@ -1,0 +1,1 @@
+((Desulfovibrio_ferrophilus_IS5_WP_126379904.1:0.405952,(Desulfocapsa_13_biocide_Utg857046_15:0.26319,Desulfosediminicola_ganghwensis_IMCC35004_WP_136798871.1:0.239997)n2:0.262868)n1:0.0540596,(Shewanella_oneidensis_MR-1_WP_011071310.1:1.68449,Shewanella_oneidensis_MR-1_WP_011070710.1:0.640394)n3:0.0540596)n0;

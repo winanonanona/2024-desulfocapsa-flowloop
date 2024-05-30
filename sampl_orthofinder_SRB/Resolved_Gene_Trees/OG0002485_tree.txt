@@ -1,0 +1,1 @@
+((Desulfosediminicola_flagellatus_IMCC35005_WP_136805558.1:0.888916,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012607473.1:0.779491)n1:0.134532,(Geobacter_sulfurreducens_PCA_WP_010942873.1:1.14329,(Shewanella_oneidensis_MR-1_WP_011071809.1:0.974576,Desulfovibrio_ferrophilus_IS5_WP_126378433.1:1.13494)n3:0.0209786)n2:0.134532)n0;

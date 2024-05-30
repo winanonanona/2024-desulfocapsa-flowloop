@@ -1,0 +1,1 @@
+(Desulfosediminicola_flagellatus_IMCC35005_WP_267313643.1:0.780266,(Desulfosediminicola_flagellatus_IMCC35005_WP_136810277.1:1.80435,(Desulfosediminicola_flagellatus_IMCC35005_WP_136809583.1:2.0036,Desulfosediminicola_flagellatus_IMCC35005_WP_136808716.1:1.82794)n2:0.0063635)n1:0.780266)n0;

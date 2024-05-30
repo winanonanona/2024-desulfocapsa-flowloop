@@ -1,0 +1,1 @@
+(Desulfovibrio_vulgaris_DP4_WP_011792585.1:1.02861,((Desulfosediminicola_flagellatus_IMCC35005_WP_167505829.1:1.16858,(Desulfocapsa_06_corrosive_Utg323140_237:0.478322,Desulfocapsa_06_corrosive_Utg323140_238:0.67575)n3:0.681832)n2:0.710149,Desulfocapsa_sulfexigens_DSM_10523_WP_015403986.1:5.40637e-06)n1:1.02861)n0;

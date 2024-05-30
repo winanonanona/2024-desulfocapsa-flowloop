@@ -1,0 +1,1 @@
+((Desulfovibrio_ferrophilus_IS5_WP_126378441.1:0.555306,(Shewanella_oneidensis_MR-1_WP_238560494.1:0.480007,Shewanella_oneidensis_MR-1_WP_164925678.1:0.811751)n2:0.0901945)n1:0.258358,Desulfosediminicola_flagellatus_IMCC35005_WP_167506051.1:1.0255)n0;

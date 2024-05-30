@@ -1,0 +1,1 @@
+(Desulfocapsa_sulfexigens_DSM_10523_WP_015404039.1:0.22806,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009565062.1:0.283455,(Shewanella_oneidensis_MR-1_WP_011074389.1:0.976591,(Shewanella_oneidensis_MR-1_WP_238560619.1:0.432382,(Shewanella_oneidensis_MR-1_WP_238560616.1:0.617016,Shewanella_oneidensis_MR-1_WP_011070962.1:0.781965):0.169164):0.127031):0.451465):0.22806);

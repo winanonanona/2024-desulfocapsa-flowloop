@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011073754.1:0.325812,(Geobacter_sulfurreducens_PCA_WP_010941355.1:0.790249,(Desulfovibrio_vulgaris_DP4_WP_011792434.1:0.435251,Desulfovibrio_ferrophilus_IS5_WP_126379627.1:0.583248):1.03412):0.325812);

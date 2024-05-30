@@ -1,0 +1,1 @@
+((Desulfovibrio_ferrophilus_IS5_WP_126380716.1:0.29469,Desulfovibrio_vulgaris_DP4_WP_010940429.1:0.416957)n1:0.245599,((Desulfovibrio_ferrophilus_IS5_WP_126376336.1:0.601962,Desulfovibrio_ferrophilus_IS5_WP_126375599.1:0.88989)n3:0.173652,Desulfovibrio_vulgaris_DP4_WP_011791658.1:0.84044)n2:0.245599)n0;

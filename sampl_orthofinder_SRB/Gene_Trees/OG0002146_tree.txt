@@ -1,0 +1,1 @@
+(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012537692.1:0.570165,((Desulfovibrio_vulgaris_DP4_WP_011793033.1:0.468903,(Desulfovibrio_ferrophilus_IS5_WP_126378051.1:0.126022,Desulfovibrio_ferrophilus_IS5_WP_126378060.1:0.108652):0.26772):0.268437,(Desulfovibrio_vulgaris_DP4_WP_010937838.1:0.288712,Desulfovibrio_ferrophilus_IS5_WP_126381174.1:0.268418):0.268001):0.570165);

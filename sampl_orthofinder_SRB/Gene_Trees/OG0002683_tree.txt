@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011071069.1:0.770562,((Desulfocapsa_13_biocide_Utg857152_118:0.140868,Desulfocapsa_06_corrosive_Utg323300_395:0.140008):0.156895,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136796188.1:0.23009,Desulfosediminicola_flagellatus_IMCC35005_WP_136809303.1:0.253659):0.0353056):0.770562);

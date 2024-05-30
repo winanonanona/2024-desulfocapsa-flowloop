@@ -1,0 +1,1 @@
+((Desulfotalea_psychrophila_LSv54_WP_011187911.1:0.665145,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012535746.1:0.684983):0.0828418,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136795348.1:0.667627,(Shewanella_oneidensis_MR-1_WP_011072527.1:0.589221,Desulfosediminicola_flagellatus_IMCC35005_WP_136808889.1:0.668743):0.01945):0.0828418);

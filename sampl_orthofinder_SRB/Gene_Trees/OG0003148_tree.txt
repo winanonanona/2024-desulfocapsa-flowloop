@@ -1,0 +1,1 @@
+(Desulfocapsa_13_biocide_Utg859098_402:0.0376691,(Desulfosediminicola_flagellatus_IMCC35005_WP_136806763.1:1.29646,(Desulfosediminicola_flagellatus_IMCC35005_WP_217909442.1:0.383941,Desulfosediminicola_flagellatus_IMCC35005_WP_217909616.1:0.0967117):0.890737):0.0376691);

@@ -1,0 +1,1 @@
+(Desulforhopalus_vacuolatus_DSM_9700_WP_205218301.1:0.104171,(((Desulfotalea_psychrophila_LSv54_WP_156792277.1:0.615969,Desulfotalea_psychrophila_LSv54_WP_011188307.1:0.569972)n3:0.0927244,Desulfotalea_psychrophila_LSv54_WP_011189372.1:0.710218)n2:0.23322,Desulfotalea_psychrophila_LSv54_WP_011189753.1:0.122238)n1:0.104171)n0;

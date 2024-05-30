@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011072621.1:0.319087,(Desulfocapsa_06_corrosive_Utg323632_171:0.55045,(Desulfovibrio_vulgaris_DP4_WP_010939582.1:0.210304,Desulfovibrio_vulgaris_DP4_WP_010938690.1:0.257313)n2:0.426449)n1:0.319087)n0;

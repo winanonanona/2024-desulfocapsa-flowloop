@@ -1,0 +1,1 @@
+((Desulfocapsa_13_biocide_Utg857992_8:0.074377,Desulfocapsa_13_biocide_Utg857992_7:0.834311)n1:0.081824,(Desulfocapsa_06_corrosive_Utg323632_4:0.640062,Desulfocapsa_06_corrosive_Utg323180_174:0.508248)n2:0.081824)n0;

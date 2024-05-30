@@ -1,0 +1,1 @@
+(Desulfovibrio_vulgaris_DP4_WP_011793119.1:0.128524,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136798423.1:0.677475,(Desulfocapsa_sulfexigens_DSM_10523_WP_015405201.1:0.397936,Desulfocapsa_sulfexigens_DSM_10523_WP_167320717.1:1.38051)n2:0.346636)n1:0.128524)n0;

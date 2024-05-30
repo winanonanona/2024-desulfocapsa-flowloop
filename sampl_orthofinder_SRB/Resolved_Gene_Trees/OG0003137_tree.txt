@@ -1,0 +1,1 @@
+((Desulfosediminicola_flagellatus_IMCC35005_WP_136810742.1:1.05592e-06,(Desulforhopalus_vacuolatus_DSM_9700_WP_205217693.1:0.555937,Desulforhopalus_vacuolatus_DSM_9700_WP_205217702.1:0.325119)n2:0.0361244)n1:0.0668849,Desulfocapsa_06_corrosive_Utg325220_84:0.144372)n0;

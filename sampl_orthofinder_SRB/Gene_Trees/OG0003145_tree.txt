@@ -1,0 +1,1 @@
+(Desulfocapsa_13_biocide_Utg858432_60:0.0773989,((Desulfosediminicola_ganghwensis_IMCC35004_WP_136799935.1:0.273735,Desulfosediminicola_ganghwensis_IMCC35004_WP_136799648.1:0.212146):0.0659083,Desulfosediminicola_ganghwensis_IMCC35004_WP_167495618.1:0.345851):0.0773989);

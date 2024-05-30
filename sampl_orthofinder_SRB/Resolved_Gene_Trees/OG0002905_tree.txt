@@ -1,0 +1,1 @@
+(Desulfosediminicola_flagellatus_IMCC35005_WP_136809655.1:0.406599,(Desulfocapsa_sulfexigens_DSM_10523_WP_015402322.1:0.210602,(Desulfocapsa_06_corrosive_Utg323180_670:0.104688,Desulfocapsa_13_biocide_Utg860814_265:0.168376)n2:0.062373)n1:0.406599)n0;

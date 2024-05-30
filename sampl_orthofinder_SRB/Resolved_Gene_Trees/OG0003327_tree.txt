@@ -1,0 +1,1 @@
+((Shewanella_oneidensis_MR-1_WP_238560594.1:0.385733,Geobacter_sulfurreducens_PCA_WP_010941388.1:0.615784)n1:0.154337,(Geobacter_sulfurreducens_PCA_WP_010943819.1:1.05382,Shewanella_oneidensis_MR-1_WP_011072188.1:0.408049)n2:0.154337)n0;

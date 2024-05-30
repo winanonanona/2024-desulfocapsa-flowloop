@@ -1,0 +1,1 @@
+(Desulfovibrio_ferrophilus_IS5_WP_126378503.1:1.06461,(Desulfosediminicola_flagellatus_IMCC35005_WP_136809008.1:0.303005,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136798489.1:0.290866,Desulfocapsa_06_corrosive_Utg323300_83:0.290303)n2:0.0250297)n1:1.06461)n0;

@@ -1,0 +1,1 @@
+((Desulfosediminicola_ganghwensis_IMCC35004_WP_136799269.1:0.0405036,Desulfosediminicola_flagellatus_IMCC35005_WP_136806374.1:0.0217484):0.0881724,((Desulfocapsa_06_corrosive_Utg323152_84:0.0302809,Desulfocapsa_13_biocide_Utg859098_316:0.0266291):0.0554984,Desulfocapsa_sulfexigens_DSM_10523_WP_015405146.1:0.0857961):0.0881724);

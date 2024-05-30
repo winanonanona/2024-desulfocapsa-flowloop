@@ -1,0 +1,1 @@
+(Geobacter_sulfurreducens_PCA_WP_010943407.1:0.301823,(((Geobacter_sulfurreducens_PCA_WP_010942776.1:0.25157,Geobacter_sulfurreducens_PCA_WP_010941501.1:0.587814):0.167748,Geobacter_sulfurreducens_PCA_WP_010943732.1:0.645869):0.07359,(Geobacter_sulfurreducens_PCA_WP_010944013.1:0.149003,Geobacter_sulfurreducens_PCA_WP_010943917.1:0.127713):0.339859):0.301823);

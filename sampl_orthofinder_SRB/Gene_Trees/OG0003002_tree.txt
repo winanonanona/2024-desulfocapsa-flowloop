@@ -1,0 +1,1 @@
+((Desulfovibrio_vulgaris_DP4_WP_011792723.1:0.592775,Desulfovibrio_ferrophilus_IS5_WP_126379886.1:0.487979):0.142082,(Desulfocapsa_sulfexigens_DSM_10523_WP_015405410.1:0.658965,Desulfocapsa_sulfexigens_DSM_10523_WP_015405642.1:0.479513):0.142082);

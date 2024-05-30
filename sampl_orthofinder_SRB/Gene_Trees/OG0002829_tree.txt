@@ -1,0 +1,1 @@
+((Shewanella_oneidensis_MR-1_WP_011070864.1:0.179732,Desulfocapsa_sulfexigens_DSM_10523_WP_015403691.1:0.187324):0.208396,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009566636.1:0.511347,Geobacter_sulfurreducens_PCA_WP_010943421.1:0.188829):0.208396);

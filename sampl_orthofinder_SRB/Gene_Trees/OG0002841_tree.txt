@@ -1,0 +1,1 @@
+((Desulfocapsa_13_biocide_Utg857682_122:1.89435,Shewanella_oneidensis_MR-1_WP_011071112.1:0.355475):0.005273,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536066.1:0.28715,Desulfovibrio_vulgaris_DP4_WP_043629042.1:0.450563):0.005273);

@@ -1,0 +1,1 @@
+(Desulfocapsa_13_biocide_Utg857046_267:5.77827e-07,(((Desulfocapsa_13_biocide_Utg861448_36:0.141708,Desulfocapsa_13_biocide_Utg858494_14:0.0309652):0.254833,Desulfocapsa_13_biocide_Utg858494_21:5.77827e-07):0.302629,(Desulfocapsa_13_biocide_Utg857152_257:0.0659464,Desulfocapsa_13_biocide_Utg859098_400:5.77827e-07):0.0130393):5.77827e-07);

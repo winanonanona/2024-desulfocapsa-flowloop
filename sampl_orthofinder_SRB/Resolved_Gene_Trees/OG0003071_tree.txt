@@ -1,0 +1,1 @@
+(Desulfocapsa_06_corrosive_Utg323180_169:0.43349,((Desulforhopalus_vacuolatus_DSM_9700_WP_205219220.1:0.563342,Desulforhopalus_vacuolatus_DSM_9700_WP_205218316.1:0.505994)n2:1.34559,Desulforhopalus_vacuolatus_DSM_9700_WP_205218532.1:1.53088)n1:0.43349)n0;

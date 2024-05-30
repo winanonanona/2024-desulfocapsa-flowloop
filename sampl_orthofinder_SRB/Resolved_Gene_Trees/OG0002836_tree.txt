@@ -1,0 +1,1 @@
+((Acidithiobacillus_ferrooxidans_YNTRS-40_WP_009568478.1:1.23697,Desulfocapsa_13_biocide_Utg862138_21:2.09561e-06)n1:0.0336995,(Desulfocapsa_06_corrosive_Utg323632_30:0.165393,Shewanella_oneidensis_MR-1_WP_011071200.1:0.639543)n2:0.0336995)n0;

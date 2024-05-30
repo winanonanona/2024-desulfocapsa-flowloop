@@ -1,0 +1,1 @@
+(Desulfotalea_psychrophila_LSv54_WP_011190384.1:0.605522,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_157293189.1:0.983658,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_054608647.1:0.64614,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_225981998.1:0.129789,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_226834059.1:0.0771587):0.498859):0.317109):0.605522);

@@ -1,0 +1,1 @@
+((Desulfosediminicola_ganghwensis_IMCC35004_WP_136795519.1:0.749182,Desulfovibrio_vulgaris_DP4_WP_010938692.1:0.765148):0.0348532,((Shewanella_oneidensis_MR-1_WP_011071356.1:0.452968,Shewanella_oneidensis_MR-1_WP_011071355.1:0.403591):0.417383,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012607171.1:0.801483):0.0348532);

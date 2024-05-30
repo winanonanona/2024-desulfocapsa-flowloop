@@ -1,0 +1,1 @@
+((Desulfotalea_psychrophila_LSv54_WP_011188794.1:0.808909,Geobacter_sulfurreducens_PCA_WP_010943818.1:1.16157)n1:0.121574,(Shewanella_oneidensis_MR-1_WP_011070910.1:1.07216,Shewanella_oneidensis_MR-1_WP_011072503.1:0.723789)n2:0.121574)n0;

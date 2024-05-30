@@ -1,0 +1,1 @@
+(Geobacter_sulfurreducens_PCA_WP_010941418.1:0.19877,((Desulfovibrio_ferrophilus_IS5_WP_126377320.1:0.142942,Desulfovibrio_vulgaris_DP4_WP_010939274.1:0.25144):0.239577,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136799740.1:0.104582,Desulfosediminicola_flagellatus_IMCC35005_WP_136810320.1:0.110002):0.391049):0.19877);

@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011070534.1:0.166746,((Desulfovibrio_ferrophilus_IS5_WP_126378976.1:0.263136,Desulfovibrio_vulgaris_DP4_WP_014524345.1:0.28086)n2:0.307445,(Desulfosediminicola_flagellatus_IMCC35005_WP_136805601.1:0.205707,Desulfosediminicola_ganghwensis_IMCC35004_WP_136797833.1:0.137343)n3:0.265792)n1:0.166746)n0;

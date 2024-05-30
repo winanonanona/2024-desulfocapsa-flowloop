@@ -1,0 +1,1 @@
+(((Desulfovibrio_ferrophilus_IS5_WP_126380456.1:0.376595,Desulfovibrio_vulgaris_DP4_WP_010940204.1:0.396007):1.02145,Desulfocapsa_06_corrosive_Utg323180_570:1.25328):0.0101673,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536211.1:1.05954,Shewanella_oneidensis_MR-1_WP_011072219.1:0.820069):0.0101673);

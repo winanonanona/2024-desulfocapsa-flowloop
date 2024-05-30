@@ -1,0 +1,12 @@
+0: Acidithiobacillus ferrooxidans YNTRS-40.faa
+1: Desulfocapsa sulfexigens DSM 10523.faa
+2: Desulfocapsa_06_corrosive.faa
+3: Desulfocapsa_13_biocide.faa
+4: Desulforhopalus vacuolatus DSM 9700.faa
+5: Desulfosediminicola flagellatus IMCC35005.faa
+6: Desulfosediminicola ganghwensis IMCC35004.faa
+7: Desulfotalea psychrophila LSv54.faa
+8: Desulfovibrio ferrophilus IS5.faa
+9: Desulfovibrio vulgaris DP4.faa
+10: Geobacter sulfurreducens PCA.faa
+11: Shewanella oneidensis MR-1.faa

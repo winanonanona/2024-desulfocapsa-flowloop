@@ -1,0 +1,1 @@
+(Shewanella_oneidensis_MR-1_WP_011073976.1:0.982623,(Desulfocapsa_06_corrosive_Utg323180_179:1.65757,(Geobacter_sulfurreducens_PCA_WP_010940952.1:2.42927,(Desulfotalea_psychrophila_LSv54_WP_011187761.1:2.21142,(Desulfotalea_psychrophila_LSv54_WP_011189346.1:0.659895,Desulfotalea_psychrophila_LSv54_WP_011189345.1:1.30968)n4:0.917466)n3:0.101941)n2:0.208999)n1:0.294797)n0;

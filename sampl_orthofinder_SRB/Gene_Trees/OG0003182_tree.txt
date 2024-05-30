@@ -1,0 +1,1 @@
+(Desulforhopalus_vacuolatus_DSM_9700_WP_205218484.1:0.43792,(Desulfotalea_psychrophila_LSv54_WP_011188135.1:0.26311,(Desulfosediminicola_ganghwensis_IMCC35004_WP_136797433.1:0.167967,Desulfosediminicola_flagellatus_IMCC35005_WP_136805906.1:0.123977):0.0650648):0.43792);

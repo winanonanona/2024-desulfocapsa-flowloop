@@ -1,0 +1,1 @@
+((Desulfosediminicola_ganghwensis_IMCC35004_WP_136795735.1:0.172753,Desulfosediminicola_flagellatus_IMCC35005_WP_136805673.1:0.0943305)n1:0.348759,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536799.1:1.32435,(Acidithiobacillus_ferrooxidans_YNTRS-40_WP_012536893.1:0.369371,Acidithiobacillus_ferrooxidans_YNTRS-40_WP_070807677.1:0.162554)n3:0.768981)n2:0.348759)n0;

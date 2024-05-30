@@ -1,0 +1,1 @@
+(Desulfovibrio_vulgaris_DP4_WP_011792005.1:0.435909,((Desulfovibrio_vulgaris_DP4_WP_010938106.1:0.377829,Desulfovibrio_vulgaris_DP4_WP_010939945.1:0.545566):0.318554,Desulfovibrio_vulgaris_DP4_WP_011792013.1:0.908382):0.435909);
